@@ -1,4 +1,4 @@
-# Infosys _Edu2JobEdu2Jobs-Job Roles from Educational Background  – Milestone-1
+# Infosys _Edu2Job-Job Roles from Educational Background  – Milestone-1
 
 ## Overview
 This repository contains the work for **Milestone-1** of the Job Roles Prediction project. The main goal of this milestone is to **prepare and understand the dataset** before moving to modeling.
