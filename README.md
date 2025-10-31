@@ -36,16 +36,16 @@ The goal is to predict suitable **job roles** based on a candidate’s **educati
 
 **Techniques Applied**
 
-**1️.Cross-Validation**
+**1️.Cross-Validation:**
 To ensure reliability and reduce bias, k-Fold Cross Validation (k=5) was applied to assess each model’s performance consistency across different splits.
 
-**2️.Regularization**
+**2️.Regularization:**
 Regularization techniques were applied to control overfitting by limiting model complexity
 Logistic Regression: Used L2 regularization
 Random Forest: Reduced max_depth, max_features, and increased min_samples_split
 XGBoost: Tuned gamma, reg_alpha, and reg_lambda parameters
 
-**3️.Hyperparameter Tuning (RandomizedSearchCV)**
+**3️.Hyperparameter Tuning (RandomizedSearchCV):**
 To identify optimal hyperparameters efficiently, RandomizedSearchCV was applied to XGBoost and Random Forest models to achieve better generalization and balanced accuracy.
 
 
