@@ -48,7 +48,7 @@ XGBoost: Tuned gamma, reg_alpha, and reg_lambda parameters
 **3️.Hyperparameter Tuning (RandomizedSearchCV):**
 To identify optimal hyperparameters efficiently, RandomizedSearchCV was applied to XGBoost and Random Forest models to achieve better generalization and balanced accuracy.
 
-## Milestone 3 – EDU2JOB Prediction App
+## Milestone 4 – EDU2JOB Prediction App
 - **XGBoost** - best model
 - **Streamlit** – for the web interface  
 - **SQLite3** – for storing user and prediction data  
