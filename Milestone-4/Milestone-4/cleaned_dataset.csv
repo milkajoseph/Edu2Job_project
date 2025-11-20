@@ -1,0 +1,1001 @@
+candidate_id,qualification,experience_level,job_role,experience_years,experience_years_filled,experience_was_missing,qualification_course,skills_list,num_skills
+1,Master's in Data Science,Senior,Data Scientist,7.0,7.0,False,Master,"['Python', 'SQL', 'TensorFlow', 'Machine Learning', 'Communication']",5
+2,Bachelor's in Computer Science,Mid,Frontend Developer,3.0,3.0,False,Bachelor,"['HTML', 'CSS', 'JavaScript', 'React', 'Teamwork']",5
+3,Bachelor's in Software Engineering,Senior,Backend Developer,7.0,7.0,False,Bachelor,"['Java', 'Spring', 'SQL', 'REST APIs', 'Problem Solving']",5
+4,Bachelor's in Design,Entry,Designer,1.0,1.0,False,Bachelor,"['Figma', 'Adobe XD', 'UI', 'UX Design', 'Creativity']",5
+5,Master's in Computer Science,Mid,Full Stack Python Developer,3.0,3.0,False,Master,"['Python', 'Django', 'JavaScript', 'React', 'Agile']",5
+6,Master's in Finance,Senior,Finance,7.0,7.0,False,Master,"['Financial Modeling', 'Excel', 'Communication', 'Risk Analysis']",4
+7,Bachelor's in Game Development,Mid,Game Developer,3.0,3.0,False,Bachelor,"['C++', 'Unreal Engine', 'Game Design', 'Teamwork']",4
+8,Bachelor's in Computer Science,Senior,DevOps Engineer,7.0,7.0,False,Bachelor,"['Kubernetes', 'Docker', 'AWS', 'CI', 'CD', 'Linux']",6
+9,Bachelor's in Software Engineering,Mid,Full Stack Java Developer,3.0,3.0,False,Bachelor,"['Java', 'Spring Boot', 'Hibernate', 'Microservices']",4
+10,Bachelor's in Computer Science,Entry,Blockchain Developer,1.0,1.0,False,Bachelor,"['Solidity', 'Ethereum', 'JavaScript', 'Blockchain']",4
+11,Bachelor's in Marketing,Mid,Marketing,3.0,3.0,False,Bachelor,"['Marketing Strategy', 'SEO', 'Content Creation', 'Analytics']",4
+12,Master's in Human Resources,Senior,HR,7.0,7.0,False,Master,"['Recruitment', 'HR Policies', 'Communication', 'Leadership']",4
+13,Bachelor's in Computer Science,Mid,C# Developer,3.0,3.0,False,Bachelor,"['C#', '.NET', 'SQL', 'ASP.NET']",4
+14,Bachelor's in Information Technology,Entry,PHP Developer,1.0,1.0,False,Bachelor,"['PHP', 'Laravel', 'MySQL', 'JavaScript']",4
+15,Bachelor's in Computer Science,Mid,Mobile Developer,3.0,3.0,False,Bachelor,"['Swift', 'iOS Development', 'Objective-C', 'UI', 'UX']",5
+16,Bachelor's in Cybersecurity,Senior,Cybersecurity Engineer,7.0,7.0,False,Bachelor,"['Network Security', 'Penetration Testing', 'Firewalls']",3
+17,Master's in Business Administration,Senior,Software Project Manager,7.0,7.0,False,Master,"['Agile', 'Scrum', 'Project Management', 'Leadership']",4
+18,Bachelor's in Game Development,Entry,Video Game Designer,1.0,1.0,False,Bachelor,"['C++', 'Unity', 'Game Design', '3D Modeling']",4
+19,Master's in Data Science,Mid,Data Analyst,3.0,3.0,False,Master,"['Python', 'Pandas', 'SQL', 'Data Visualization']",4
+20,Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,7.0,7.0,False,Bachelor,"['Kubernetes', 'Helm', 'AWS', 'Terraform']",4
+21,Bachelor's in Computer Science,Mid,Web Developer,3.0,3.0,False,Bachelor,"['HTML', 'CSS', 'JavaScript', 'Node.js', 'MongoDB']",5
+22,PhD in Artificial Intelligence,Senior,AIML,7.0,7.0,False,PhD,"['Python', 'Machine Learning', 'Deep Learning', 'NLP']",4
+23,Bachelor's in Software Engineering,Mid,Mobile Developer,3.0,3.0,False,Bachelor,"['Java', 'Android Development', 'Kotlin', 'REST APIs']",4
+24,Bachelor's in Computer Science,Entry,Full Stack Python Developer,1.0,1.0,False,Bachelor,"['Python', 'Flask', 'JavaScript', 'PostgreSQL']",4
+25,Master's in Software Engineering,Senior,Full Stack Java Developer,7.0,7.0,False,Master,"['Java', 'Spring', 'Angular', 'Microservices']",4
+26,Bachelor's in Graphic Design,Mid,Designer,3.0,3.0,False,Bachelor,"['Adobe Illustrator', 'Photoshop', 'UI', 'UX', 'Prototyping']",5
+27,Bachelor's in Statistics,Entry,Data Analyst,1.0,1.0,False,Bachelor,"['SQL', 'Tableau', 'Data Analysis', 'Statistics']",4
+28,Bachelor's in Game Development,Mid,Game Developer,3.0,3.0,False,Bachelor,"['C#', 'Unity', 'Game Physics', '3D Modeling']",4
+29,Bachelor's in Computer Science,Senior,DevOps Engineer,7.0,7.0,False,Bachelor,"['AWS', 'Jenkins', 'Docker', 'Ansible']",4
+30,Bachelor's in Information Technology,Entry,PHP Developer,1.0,1.0,False,Bachelor,"['PHP', 'WordPress', 'MySQL', 'JavaScript']",4
+31,Master's in Data Science,Mid,Data Scientist,3.0,3.0,False,Master,"['Python', 'TensorFlow', 'Keras', 'Data Science']",4
+32,Bachelor's in Computer Science,Senior,Blockchain Developer,7.0,7.0,False,Bachelor,"['Blockchain', 'Smart Contracts', 'Solidity', 'Web3']",4
+33,Bachelor's in Computer Science,Mid,Frontend Developer,3.0,3.0,False,Bachelor,"['React', 'JavaScript', 'HTML', 'CSS', 'Redux']",5
+34,Bachelor's in Software Engineering,Senior,Backend Developer,7.0,7.0,False,Bachelor,"['Java', 'Hibernate', 'SQL', 'REST APIs']",4
+35,Bachelor's in Marketing,Mid,Marketing,3.0,3.0,False,Bachelor,"['Digital Marketing', 'Google Analytics', 'SEO', 'PPC']",4
+36,Master's in Human Resources,Senior,HR,7.0,7.0,False,Master,"['HR Management', 'Recruitment', 'Employee Relations']",3
+37,Bachelor's in Computer Science,Mid,C# Developer,3.0,3.0,False,Bachelor,"['C#', '.NET Core', 'Azure', 'SQL Server']",4
+38,Bachelor's in Computer Science,Entry,Mobile Developer,1.0,1.0,False,Bachelor,"['Swift', 'iOS', 'Xcode', 'Core Data']",4
+39,Master's in Cybersecurity,Senior,Cybersecurity Engineer,7.0,7.0,False,Master,"['Network Security', 'Ethical Hacking', 'SIEM']",3
+40,Master's in Business Administration,Mid,Software Project Manager,3.0,3.0,False,Master,"['Agile', 'JIRA', 'Stakeholder Management']",3
+41,Master's in Data Science,Senior,Data Scientist,7.0,7.0,False,Master,"['Python', 'R', 'SQL', 'Machine Learning']",4
+42,Bachelor's in Design,Entry,Designer,1.0,1.0,False,Bachelor,"['Figma', 'Sketch', 'UI', 'UX', 'Wireframing']",5
+43,Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,3.0,3.0,False,Bachelor,"['Kubernetes', 'Docker', 'GCP', 'CI', 'CD']",5
+44,Bachelor's in Information Technology,Entry,Web Developer,1.0,1.0,False,Bachelor,"['JavaScript', 'Node.js', 'Express', 'MongoDB']",4
+45,Bachelor's in Computer Science,Mid,Full Stack Python Developer,3.0,3.0,False,Bachelor,"['Python', 'Django', 'PostgreSQL', 'JavaScript']",4
+46,Master's in Software Engineering,Senior,Full Stack Java Developer,7.0,7.0,False,Master,"['Java', 'Spring Boot', 'Angular', 'AWS']",4
+47,Bachelor's in Game Development,Mid,Game Developer,3.0,3.0,False,Bachelor,"['C++', 'Unreal Engine', 'VR Development']",3
+48,Bachelor's in Computer Science,Senior,DevOps Engineer,7.0,7.0,False,Bachelor,"['AWS', 'Terraform', 'Jenkins', 'Linux']",4
+49,Bachelor's in Information Technology,Entry,PHP Developer,1.0,1.0,False,Bachelor,"['PHP', 'Symfony', 'MySQL', 'JavaScript']",4
+50,Bachelor's in Computer Science,Mid,Blockchain Developer,3.0,3.0,False,Bachelor,"['Solidity', 'Web3', 'Ethereum', 'JavaScript']",4
+51,Bachelor's in Computer Science,Entry,Frontend Developer,1.0,1.0,False,Bachelor,"['React', 'TypeScript', 'HTML', 'CSS']",4
+52,Bachelor's in Software Engineering,Senior,Backend Developer,7.0,7.0,False,Bachelor,"['Java', 'Spring', 'SQL', 'Microservices']",4
+53,Bachelor's in Marketing,Mid,Marketing,3.0,3.0,False,Bachelor,"['Marketing Campaigns', 'Social Media', 'Analytics']",3
+54,Master's in Human Resources,Senior,HR,7.0,7.0,False,Master,"['HR Policies', 'Recruitment', 'Training']",3
+55,Bachelor's in Computer Science,Mid,C# Developer,3.0,3.0,False,Bachelor,"['C#', 'ASP.NET', 'SQL Server', 'Azure']",4
+56,Bachelor's in Computer Science,Entry,Mobile Developer,1.0,1.0,False,Bachelor,"['Swift', 'iOS Development', 'UI', 'UX', 'Core Data']",5
+57,Master's in Cybersecurity,Senior,Cybersecurity Engineer,7.0,7.0,False,Master,"['Penetration Testing', 'Firewalls', 'SIEM']",3
+58,Master's in Business Administration,Mid,Software Project Manager,3.0,3.0,False,Master,"['Scrum', 'Agile', 'Project Management']",3
+59,Master's in Data Science,Entry,Data Analyst,1.0,1.0,False,Master,"['Python', 'Pandas', 'SQL', 'Tableau']",4
+60,Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,7.0,7.0,False,Bachelor,"['Kubernetes', 'Helm', 'AWS', 'Docker']",4
+61,Bachelor's in Information Technology,Mid,Web Developer,3.0,3.0,False,Bachelor,"['HTML', 'CSS', 'JavaScript', 'Vue.js']",4
+62,PhD in Artificial Intelligence,Senior,AIML,7.0,7.0,False,PhD,"['Python', 'TensorFlow', 'NLP', 'Deep Learning']",4
+63,Bachelor's in Software Engineering,Mid,Mobile Developer,3.0,3.0,False,Bachelor,"['Java', 'Kotlin', 'Android SDK', 'REST APIs']",4
+64,Bachelor's in Computer Science,Entry,Full Stack Python Developer,1.0,1.0,False,Bachelor,"['Python', 'Flask', 'JavaScript', 'SQL']",4
+65,Master's in Software Engineering,Senior,Full Stack Java Developer,7.0,7.0,False,Master,"['Java', 'Spring', 'React', 'AWS']",4
+66,Bachelor's in Graphic Design,Mid,Designer,3.0,3.0,False,Bachelor,"['Adobe XD', 'Figma', 'UI', 'UX', 'Prototyping']",5
+67,Bachelor's in Statistics,Entry,Data Analyst,1.0,1.0,False,Bachelor,"['SQL', 'R', 'Data Visualization', 'Statistics']",4
+68,Bachelor's in Game Development,Mid,Game Developer,3.0,3.0,False,Bachelor,"['C++', 'Unity', 'Game Design', 'VR']",4
+69,Bachelor's in Computer Science,Senior,DevOps Engineer,7.0,7.0,False,Bachelor,"['AWS', 'Jenkins', 'Docker', 'Terraform']",4
+70,Bachelor's in Information Technology,Entry,PHP Developer,1.0,1.0,False,Bachelor,"['PHP', 'Laravel', 'MySQL', 'JavaScript']",4
+71,Master's in Data Science,Mid,Data Scientist,3.0,3.0,False,Master,"['Python', 'TensorFlow', 'Keras', 'NLP']",4
+72,Bachelor's in Computer Science,Senior,Blockchain Developer,7.0,7.0,False,Bachelor,"['Solidity', 'Ethereum', 'Web3', 'Blockchain']",4
+73,Bachelor's in Computer Science,Mid,Frontend Developer,3.0,3.0,False,Bachelor,"['React', 'JavaScript', 'HTML', 'CSS', 'Redux']",5
+74,Bachelor's in Software Engineering,Senior,Backend Developer,7.0,7.0,False,Bachelor,"['Java', 'Hibernate', 'SQL', 'REST APIs']",4
+75,Bachelor's in Marketing,Mid,Marketing,3.0,3.0,False,Bachelor,"['Digital Marketing', 'SEO', 'PPC', 'Analytics']",4
+76,Master's in Human Resources,Senior,HR,7.0,7.0,False,Master,"['HR Management', 'Recruitment', 'Employee Relations']",3
+77,Bachelor's in Computer Science,Mid,C# Developer,3.0,3.0,False,Bachelor,"['C#', '.NET Core', 'Azure', 'SQL Server']",4
+78,Bachelor's in Computer Science,Entry,Mobile Developer,1.0,1.0,False,Bachelor,"['Swift', 'iOS', 'Xcode', 'UI', 'UX']",5
+79,Master's in Cybersecurity,Senior,Cybersecurity Engineer,7.0,7.0,False,Master,"['Network Security', 'Ethical Hacking', 'SIEM']",3
+80,Master's in Business Administration,Mid,Software Project Manager,3.0,3.0,False,Master,"['Agile', 'JIRA', 'Stakeholder Management']",3
+81,Master's in Data Science,Senior,Data Scientist,7.0,7.0,False,Master,"['Python', 'R', 'SQL', 'Machine Learning']",4
+82,Bachelor's in Design,Entry,Designer,1.0,1.0,False,Bachelor,"['Figma', 'Sketch', 'UI', 'UX', 'Wireframing']",5
+83,Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,3.0,3.0,False,Bachelor,"['Kubernetes', 'Docker', 'GCP', 'CI', 'CD']",5
+84,Bachelor's in Information Technology,Entry,Web Developer,1.0,1.0,False,Bachelor,"['JavaScript', 'Node.js', 'Express', 'MongoDB']",4
+85,Bachelor's in Computer Science,Mid,Full Stack Python Developer,3.0,3.0,False,Bachelor,"['Python', 'Django', 'PostgreSQL', 'JavaScript']",4
+86,Master's in Software Engineering,Senior,Full Stack Java Developer,7.0,7.0,False,Master,"['Java', 'Spring Boot', 'Angular', 'AWS']",4
+87,Bachelor's in Game Development,Mid,Game Developer,3.0,3.0,False,Bachelor,"['C++', 'Unreal Engine', 'VR Development']",3
+88,Bachelor's in Computer Science,Senior,DevOps Engineer,7.0,7.0,False,Bachelor,"['AWS', 'Terraform', 'Jenkins', 'Linux']",4
+89,Bachelor's in Information Technology,Entry,PHP Developer,1.0,1.0,False,Bachelor,"['PHP', 'Symfony', 'MySQL', 'JavaScript']",4
+90,Bachelor's in Computer Science,Mid,Blockchain Developer,3.0,3.0,False,Bachelor,"['Solidity', 'Web3', 'Ethereum', 'JavaScript']",4
+91,Bachelor's in Computer Science,Entry,Frontend Developer,1.0,1.0,False,Bachelor,"['React', 'TypeScript', 'HTML', 'CSS']",4
+92,Bachelor's in Software Engineering,Senior,Backend Developer,7.0,7.0,False,Bachelor,"['Java', 'Spring', 'SQL', 'Microservices']",4
+93,Bachelor's in Marketing,Mid,Marketing,3.0,3.0,False,Bachelor,"['Marketing Campaigns', 'Social Media', 'Analytics']",3
+94,Master's in Human Resources,Senior,HR,7.0,7.0,False,Master,"['HR Policies', 'Recruitment', 'Training']",3
+95,Bachelor's in Computer Science,Mid,C# Developer,3.0,3.0,False,Bachelor,"['C#', 'ASP.NET', 'SQL Server', 'Azure']",4
+96,Bachelor's in Computer Science,Entry,Mobile Developer,1.0,1.0,False,Bachelor,"['Swift', 'iOS Development', 'UI', 'UX', 'Core Data']",5
+97,Master's in Cybersecurity,Senior,Cybersecurity Engineer,7.0,7.0,False,Master,"['Penetration Testing', 'Firewalls', 'SIEM']",3
+98,Master's in Business Administration,Mid,Software Project Manager,3.0,3.0,False,Master,"['Scrum', 'Agile', 'Project Management']",3
+99,Master's in Data Science,Entry,Data Analyst,1.0,1.0,False,Master,"['Python', 'Pandas', 'SQL', 'Tableau']",4
+100,Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,7.0,7.0,False,Bachelor,"['Kubernetes', 'Helm', 'AWS', 'Docker']",4
+101,Bachelor's in Information Technology,Mid,Web Developer,3.0,3.0,False,Bachelor,"['HTML', 'CSS', 'JavaScript', 'Vue.js']",4
+102,PhD in Artificial Intelligence,Senior,AIML,7.0,7.0,False,PhD,"['Python', 'TensorFlow', 'NLP', 'Deep Learning']",4
+103,Bachelor's in Software Engineering,Mid,Mobile Developer,3.0,3.0,False,Bachelor,"['Java', 'Kotlin', 'Android SDK', 'REST APIs']",4
+104,Bachelor's in Computer Science,Entry,Full Stack Python Developer,1.0,1.0,False,Bachelor,"['Python', 'Flask', 'JavaScript', 'SQL']",4
+105,Master's in Software Engineering,Senior,Full Stack Java Developer,7.0,7.0,False,Master,"['Java', 'Spring', 'React', 'AWS']",4
+106,Bachelor's in Graphic Design,Mid,Designer,3.0,3.0,False,Bachelor,"['Adobe XD', 'Figma', 'UI', 'UX', 'Prototyping']",5
+107,Bachelor's in Statistics,Entry,Data Analyst,1.0,1.0,False,Bachelor,"['SQL', 'R', 'Data Visualization', 'Statistics']",4
+108,Bachelor's in Game Development,Mid,Game Developer,3.0,3.0,False,Bachelor,"['C++', 'Unity', 'Game Design', 'VR']",4
+109,Bachelor's in Computer Science,Senior,DevOps Engineer,7.0,7.0,False,Bachelor,"['AWS', 'Jenkins', 'Docker', 'Terraform']",4
+110,Bachelor's in Information Technology,Entry,PHP Developer,1.0,1.0,False,Bachelor,"['PHP', 'Laravel', 'MySQL', 'JavaScript']",4
+111,Master's in Data Science,Mid,Data Scientist,3.0,3.0,False,Master,"['Python', 'TensorFlow', 'Keras', 'NLP']",4
+112,Bachelor's in Computer Science,Senior,Blockchain Developer,7.0,7.0,False,Bachelor,"['Solidity', 'Ethereum', 'Web3', 'Blockchain']",4
+113,Bachelor's in Computer Science,Mid,Frontend Developer,3.0,3.0,False,Bachelor,"['React', 'JavaScript', 'HTML', 'CSS', 'Redux']",5
+114,Bachelor's in Software Engineering,Senior,Backend Developer,7.0,7.0,False,Bachelor,"['Java', 'Hibernate', 'SQL', 'REST APIs']",4
+115,Bachelor's in Marketing,Mid,Marketing,3.0,3.0,False,Bachelor,"['Digital Marketing', 'SEO', 'PPC', 'Analytics']",4
+116,Master's in Human Resources,Senior,HR,7.0,7.0,False,Master,"['HR Management', 'Recruitment', 'Employee Relations']",3
+117,Bachelor's in Computer Science,Mid,C# Developer,3.0,3.0,False,Bachelor,"['C#', '.NET Core', 'Azure', 'SQL Server']",4
+118,Bachelor's in Computer Science,Entry,Mobile Developer,1.0,1.0,False,Bachelor,"['Swift', 'iOS', 'Xcode', 'UI', 'UX']",5
+119,Master's in Cybersecurity,Senior,Cybersecurity Engineer,7.0,7.0,False,Master,"['Network Security', 'Ethical Hacking', 'SIEM']",3
+120,Master's in Business Administration,Mid,Software Project Manager,3.0,3.0,False,Master,"['Agile', 'JIRA', 'Stakeholder Management']",3
+121,Master's in Data Science,Senior,Data Scientist,7.0,7.0,False,Master,"['Python', 'R', 'SQL', 'Machine Learning']",4
+122,Bachelor's in Design,Entry,Designer,1.0,1.0,False,Bachelor,"['Figma', 'Sketch', 'UI', 'UX', 'Wireframing']",5
+123,Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,3.0,3.0,False,Bachelor,"['Kubernetes', 'Docker', 'GCP', 'CI', 'CD']",5
+124,Bachelor's in Information Technology,Entry,Web Developer,1.0,1.0,False,Bachelor,"['JavaScript', 'Node.js', 'Express', 'MongoDB']",4
+125,Bachelor's in Computer Science,Mid,Full Stack Python Developer,3.0,3.0,False,Bachelor,"['Python', 'Django', 'PostgreSQL', 'JavaScript']",4
+126,Master's in Software Engineering,Senior,Full Stack Java Developer,7.0,7.0,False,Master,"['Java', 'Spring Boot', 'Angular', 'AWS']",4
+127,Bachelor's in Game Development,Mid,Game Developer,3.0,3.0,False,Bachelor,"['C++', 'Unreal Engine', 'VR Development']",3
+128,Bachelor's in Computer Science,Senior,DevOps Engineer,7.0,7.0,False,Bachelor,"['AWS', 'Terraform', 'Jenkins', 'Linux']",4
+129,Bachelor's in Information Technology,Entry,PHP Developer,1.0,1.0,False,Bachelor,"['PHP', 'Symfony', 'MySQL', 'JavaScript']",4
+130,Bachelor's in Computer Science,Mid,Blockchain Developer,3.0,3.0,False,Bachelor,"['Solidity', 'Web3', 'Ethereum', 'JavaScript']",4
+131,Bachelor's in Computer Science,Entry,Frontend Developer,1.0,1.0,False,Bachelor,"['React', 'TypeScript', 'HTML', 'CSS']",4
+132,Bachelor's in Software Engineering,Senior,Backend Developer,7.0,7.0,False,Bachelor,"['Java', 'Spring', 'SQL', 'Microservices']",4
+133,Bachelor's in Marketing,Mid,Marketing,3.0,3.0,False,Bachelor,"['Marketing Campaigns', 'Social Media', 'Analytics']",3
+134,Master's in Human Resources,Senior,HR,7.0,7.0,False,Master,"['HR Policies', 'Recruitment', 'Training']",3
+135,Bachelor's in Computer Science,Mid,C# Developer,3.0,3.0,False,Bachelor,"['C#', 'ASP.NET', 'SQL Server', 'Azure']",4
+136,Bachelor's in Computer Science,Entry,Mobile Developer,1.0,1.0,False,Bachelor,"['Swift', 'iOS Development', 'UI', 'UX', 'Core Data']",5
+137,Master's in Cybersecurity,Senior,Cybersecurity Engineer,7.0,7.0,False,Master,"['Penetration Testing', 'Firewalls', 'SIEM']",3
+138,Master's in Business Administration,Mid,Software Project Manager,3.0,3.0,False,Master,"['Scrum', 'Agile', 'Project Management']",3
+139,Master's in Data Science,Entry,Data Analyst,1.0,1.0,False,Master,"['Python', 'Pandas', 'SQL', 'Tableau']",4
+140,Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,7.0,7.0,False,Bachelor,"['Kubernetes', 'Helm', 'AWS', 'Docker']",4
+141,Bachelor's in Information Technology,Mid,Web Developer,3.0,3.0,False,Bachelor,"['HTML', 'CSS', 'JavaScript', 'Vue.js']",4
+142,PhD in Artificial Intelligence,Senior,AIML,7.0,7.0,False,PhD,"['Python', 'TensorFlow', 'NLP', 'Deep Learning']",4
+143,Bachelor's in Software Engineering,Mid,Mobile Developer,3.0,3.0,False,Bachelor,"['Java', 'Kotlin', 'Android SDK', 'REST APIs']",4
+144,Bachelor's in Computer Science,Entry,Full Stack Python Developer,1.0,1.0,False,Bachelor,"['Python', 'Flask', 'JavaScript', 'SQL']",4
+145,Master's in Software Engineering,Senior,Full Stack Java Developer,7.0,7.0,False,Master,"['Java', 'Spring', 'React', 'AWS']",4
+146,Bachelor's in Graphic Design,Mid,Designer,3.0,3.0,False,Bachelor,"['Adobe XD', 'Figma', 'UI', 'UX', 'Prototyping']",5
+147,Bachelor's in Statistics,Entry,Data Analyst,1.0,1.0,False,Bachelor,"['SQL', 'R', 'Data Visualization', 'Statistics']",4
+148,Bachelor's in Game Development,Mid,Game Developer,3.0,3.0,False,Bachelor,"['C++', 'Unity', 'Game Design', 'VR']",4
+149,Bachelor's in Computer Science,Senior,DevOps Engineer,7.0,7.0,False,Bachelor,"['AWS', 'Jenkins', 'Docker', 'Terraform']",4
+150,Bachelor's in Information Technology,Entry,PHP Developer,1.0,1.0,False,Bachelor,"['PHP', 'Laravel', 'MySQL', 'JavaScript']",4
+151,Master's in Data Science,Mid,Data Scientist,3.0,3.0,False,Master,"['Python', 'TensorFlow', 'Keras', 'NLP']",4
+152,Bachelor's in Computer Science,Senior,Blockchain Developer,7.0,7.0,False,Bachelor,"['Solidity', 'Ethereum', 'Web3', 'Blockchain']",4
+153,Bachelor's in Computer Science,Mid,Frontend Developer,3.0,3.0,False,Bachelor,"['React', 'JavaScript', 'HTML', 'CSS', 'Redux']",5
+154,Bachelor's in Software Engineering,Senior,Backend Developer,7.0,7.0,False,Bachelor,"['Java', 'Hibernate', 'SQL', 'REST APIs']",4
+155,Bachelor's in Marketing,Mid,Marketing,3.0,3.0,False,Bachelor,"['Digital Marketing', 'SEO', 'PPC', 'Analytics']",4
+156,Master's in Human Resources,Senior,HR,7.0,7.0,False,Master,"['HR Management', 'Recruitment', 'Employee Relations']",3
+157,Bachelor's in Computer Science,Mid,C# Developer,3.0,3.0,False,Bachelor,"['C#', '.NET Core', 'Azure', 'SQL Server']",4
+158,Bachelor's in Computer Science,Entry,Mobile Developer,1.0,1.0,False,Bachelor,"['Swift', 'iOS', 'Xcode', 'UI', 'UX']",5
+159,Master's in Cybersecurity,Senior,Cybersecurity Engineer,7.0,7.0,False,Master,"['Network Security', 'Ethical Hacking', 'SIEM']",3
+160,Master's in Business Administration,Mid,Software Project Manager,3.0,3.0,False,Master,"['Agile', 'JIRA', 'Stakeholder Management']",3
+161,Master's in Data Science,Senior,Data Scientist,7.0,7.0,False,Master,"['Python', 'R', 'SQL', 'Machine Learning']",4
+162,Bachelor's in Design,Entry,Designer,1.0,1.0,False,Bachelor,"['Figma', 'Sketch', 'UI', 'UX', 'Wireframing']",5
+163,Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,3.0,3.0,False,Bachelor,"['Kubernetes', 'Docker', 'GCP', 'CI', 'CD']",5
+164,Bachelor's in Information Technology,Entry,Web Developer,1.0,1.0,False,Bachelor,"['JavaScript', 'Node.js', 'Express', 'MongoDB']",4
+165,Bachelor's in Computer Science,Mid,Full Stack Python Developer,3.0,3.0,False,Bachelor,"['Python', 'Django', 'PostgreSQL', 'JavaScript']",4
+166,Master's in Software Engineering,Senior,Full Stack Java Developer,7.0,7.0,False,Master,"['Java', 'Spring Boot', 'Angular', 'AWS']",4
+167,Bachelor's in Game Development,Mid,Game Developer,3.0,3.0,False,Bachelor,"['C++', 'Unreal Engine', 'VR Development']",3
+168,Bachelor's in Computer Science,Senior,DevOps Engineer,7.0,7.0,False,Bachelor,"['AWS', 'Terraform', 'Jenkins', 'Linux']",4
+169,Bachelor's in Information Technology,Entry,PHP Developer,1.0,1.0,False,Bachelor,"['PHP', 'Symfony', 'MySQL', 'JavaScript']",4
+170,Bachelor's in Computer Science,Mid,Blockchain Developer,3.0,3.0,False,Bachelor,"['Solidity', 'Web3', 'Ethereum', 'JavaScript']",4
+171,Bachelor's in Computer Science,Entry,Frontend Developer,1.0,1.0,False,Bachelor,"['React', 'TypeScript', 'HTML', 'CSS']",4
+172,Bachelor's in Software Engineering,Senior,Backend Developer,7.0,7.0,False,Bachelor,"['Java', 'Spring', 'SQL', 'Microservices']",4
+173,Bachelor's in Marketing,Mid,Marketing,3.0,3.0,False,Bachelor,"['Marketing Campaigns', 'Social Media', 'Analytics']",3
+174,Master's in Human Resources,Senior,HR,7.0,7.0,False,Master,"['HR Policies', 'Recruitment', 'Training']",3
+175,Bachelor's in Computer Science,Mid,C# Developer,3.0,3.0,False,Bachelor,"['C#', 'ASP.NET', 'SQL Server', 'Azure']",4
+176,Bachelor's in Computer Science,Entry,Mobile Developer,1.0,1.0,False,Bachelor,"['Swift', 'iOS Development', 'UI', 'UX', 'Core Data']",5
+177,Master's in Cybersecurity,Senior,Cybersecurity Engineer,7.0,7.0,False,Master,"['Penetration Testing', 'Firewalls', 'SIEM']",3
+178,Master's in Business Administration,Mid,Software Project Manager,3.0,3.0,False,Master,"['Scrum', 'Agile', 'Project Management']",3
+179,Master's in Data Science,Entry,Data Analyst,1.0,1.0,False,Master,"['Python', 'Pandas', 'SQL', 'Tableau']",4
+180,Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,7.0,7.0,False,Bachelor,"['Kubernetes', 'Helm', 'AWS', 'Docker']",4
+181,Bachelor's in Information Technology,Mid,Web Developer,3.0,3.0,False,Bachelor,"['HTML', 'CSS', 'JavaScript', 'Vue.js']",4
+182,PhD in Artificial Intelligence,Senior,AIML,7.0,7.0,False,PhD,"['Python', 'TensorFlow', 'NLP', 'Deep Learning']",4
+183,Bachelor's in Software Engineering,Mid,Mobile Developer,3.0,3.0,False,Bachelor,"['Java', 'Kotlin', 'Android SDK', 'REST APIs']",4
+184,Bachelor's in Computer Science,Entry,Full Stack Python Developer,1.0,1.0,False,Bachelor,"['Python', 'Flask', 'JavaScript', 'SQL']",4
+185,Master's in Software Engineering,Senior,Full Stack Java Developer,7.0,7.0,False,Master,"['Java', 'Spring', 'React', 'AWS']",4
+186,Bachelor's in Graphic Design,Mid,Designer,3.0,3.0,False,Bachelor,"['Adobe XD', 'Figma', 'UI', 'UX', 'Prototyping']",5
+187,Bachelor's in Statistics,Entry,Data Analyst,1.0,1.0,False,Bachelor,"['SQL', 'R', 'Data Visualization', 'Statistics']",4
+188,Bachelor's in Game Development,Mid,Game Developer,3.0,3.0,False,Bachelor,"['C++', 'Unity', 'Game Design', 'VR']",4
+189,Bachelor's in Computer Science,Senior,DevOps Engineer,7.0,7.0,False,Bachelor,"['AWS', 'Jenkins', 'Docker', 'Terraform']",4
+190,Bachelor's in Information Technology,Entry,PHP Developer,1.0,1.0,False,Bachelor,"['PHP', 'Laravel', 'MySQL', 'JavaScript']",4
+191,Master's in Data Science,Mid,Data Scientist,3.0,3.0,False,Master,"['Python', 'TensorFlow', 'Keras', 'NLP']",4
+192,Bachelor's in Computer Science,Senior,Blockchain Developer,7.0,7.0,False,Bachelor,"['Solidity', 'Ethereum', 'Web3', 'Blockchain']",4
+193,Bachelor's in Computer Science,Mid,Frontend Developer,3.0,3.0,False,Bachelor,"['React', 'JavaScript', 'HTML', 'CSS', 'Redux']",5
+194,Bachelor's in Software Engineering,Senior,Backend Developer,7.0,7.0,False,Bachelor,"['Java', 'Hibernate', 'SQL', 'REST APIs']",4
+195,Bachelor's in Marketing,Mid,Marketing,3.0,3.0,False,Bachelor,"['Digital Marketing', 'SEO', 'PPC', 'Analytics']",4
+196,Master's in Human Resources,Senior,HR,7.0,7.0,False,Master,"['HR Management', 'Recruitment', 'Employee Relations']",3
+197,Bachelor's in Computer Science,Mid,C# Developer,3.0,3.0,False,Bachelor,"['C#', '.NET Core', 'Azure', 'SQL Server']",4
+198,Bachelor's in Computer Science,Entry,Mobile Developer,1.0,1.0,False,Bachelor,"['Swift', 'iOS', 'Xcode', 'UI', 'UX']",5
+199,Master's in Cybersecurity,Senior,Cybersecurity Engineer,7.0,7.0,False,Master,"['Network Security', 'Ethical Hacking', 'SIEM']",3
+200,Master's in Business Administration,Mid,Software Project Manager,3.0,3.0,False,Master,"['Agile', 'JIRA', 'Stakeholder Management']",3
+201,Master's in Data Science,Senior,Data Scientist,7.0,7.0,False,Master,"['Python', 'R', 'SQL', 'Machine Learning']",4
+202,Bachelor's in Design,Entry,Designer,1.0,1.0,False,Bachelor,"['Figma', 'Sketch', 'UI', 'UX', 'Wireframing']",5
+203,Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,3.0,3.0,False,Bachelor,"['Kubernetes', 'Docker', 'GCP', 'CI', 'CD']",5
+204,Bachelor's in Information Technology,Entry,Web Developer,1.0,1.0,False,Bachelor,"['JavaScript', 'Node.js', 'Express', 'MongoDB']",4
+205,Bachelor's in Computer Science,Mid,Full Stack Python Developer,3.0,3.0,False,Bachelor,"['Python', 'Django', 'PostgreSQL', 'JavaScript']",4
+206,Master's in Software Engineering,Senior,Full Stack Java Developer,7.0,7.0,False,Master,"['Java', 'Spring Boot', 'Angular', 'AWS']",4
+207,Bachelor's in Game Development,Mid,Game Developer,3.0,3.0,False,Bachelor,"['C++', 'Unreal Engine', 'VR Development']",3
+208,Bachelor's in Computer Science,Senior,DevOps Engineer,7.0,7.0,False,Bachelor,"['AWS', 'Terraform', 'Jenkins', 'Linux']",4
+209,Bachelor's in Information Technology,Entry,PHP Developer,1.0,1.0,False,Bachelor,"['PHP', 'Symfony', 'MySQL', 'JavaScript']",4
+210,Bachelor's in Computer Science,Mid,Blockchain Developer,3.0,3.0,False,Bachelor,"['Solidity', 'Web3', 'Ethereum', 'JavaScript']",4
+211,Bachelor's in Computer Science,Entry,Frontend Developer,1.0,1.0,False,Bachelor,"['React', 'TypeScript', 'HTML', 'CSS']",4
+212,Bachelor's in Software Engineering,Senior,Backend Developer,7.0,7.0,False,Bachelor,"['Java', 'Spring', 'SQL', 'Microservices']",4
+213,Bachelor's in Marketing,Mid,Marketing,3.0,3.0,False,Bachelor,"['Marketing Campaigns', 'Social Media', 'Analytics']",3
+214,Master's in Human Resources,Senior,HR,7.0,7.0,False,Master,"['HR Policies', 'Recruitment', 'Training']",3
+215,Bachelor's in Computer Science,Mid,C# Developer,3.0,3.0,False,Bachelor,"['C#', 'ASP.NET', 'SQL Server', 'Azure']",4
+216,Bachelor's in Computer Science,Entry,Mobile Developer,1.0,1.0,False,Bachelor,"['Swift', 'iOS Development', 'UI', 'UX', 'Core Data']",5
+217,Master's in Cybersecurity,Senior,Cybersecurity Engineer,7.0,7.0,False,Master,"['Penetration Testing', 'Firewalls', 'SIEM']",3
+218,Master's in Business Administration,Mid,Software Project Manager,3.0,3.0,False,Master,"['Scrum', 'Agile', 'Project Management']",3
+219,Master's in Data Science,Entry,Data Analyst,1.0,1.0,False,Master,"['Python', 'Pandas', 'SQL', 'Tableau']",4
+220,Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,7.0,7.0,False,Bachelor,"['Kubernetes', 'Helm', 'AWS', 'Docker']",4
+221,Bachelor's in Information Technology,Mid,Web Developer,3.0,3.0,False,Bachelor,"['HTML', 'CSS', 'JavaScript', 'Vue.js']",4
+222,PhD in Artificial Intelligence,Senior,AIML,7.0,7.0,False,PhD,"['Python', 'TensorFlow', 'NLP', 'Deep Learning']",4
+223,Bachelor's in Software Engineering,Mid,Mobile Developer,3.0,3.0,False,Bachelor,"['Java', 'Kotlin', 'Android SDK', 'REST APIs']",4
+224,Bachelor's in Computer Science,Entry,Full Stack Python Developer,1.0,1.0,False,Bachelor,"['Python', 'Flask', 'JavaScript', 'SQL']",4
+225,Master's in Software Engineering,Senior,Full Stack Java Developer,7.0,7.0,False,Master,"['Java', 'Spring', 'React', 'AWS']",4
+226,Bachelor's in Graphic Design,Mid,Designer,3.0,3.0,False,Bachelor,"['Adobe XD', 'Figma', 'UI', 'UX', 'Prototyping']",5
+227,Bachelor's in Statistics,Entry,Data Analyst,1.0,1.0,False,Bachelor,"['SQL', 'R', 'Data Visualization', 'Statistics']",4
+228,Bachelor's in Game Development,Mid,Game Developer,3.0,3.0,False,Bachelor,"['C++', 'Unity', 'Game Design', 'VR']",4
+229,Bachelor's in Computer Science,Senior,DevOps Engineer,7.0,7.0,False,Bachelor,"['AWS', 'Jenkins', 'Docker', 'Terraform']",4
+230,Bachelor's in Information Technology,Entry,PHP Developer,1.0,1.0,False,Bachelor,"['PHP', 'Laravel', 'MySQL', 'JavaScript']",4
+231,Master's in Data Science,Mid,Data Scientist,3.0,3.0,False,Master,"['Python', 'TensorFlow', 'Keras', 'NLP']",4
+232,Bachelor's in Computer Science,Senior,Blockchain Developer,7.0,7.0,False,Bachelor,"['Solidity', 'Ethereum', 'Web3', 'Blockchain']",4
+233,Bachelor's in Computer Science,Mid,Frontend Developer,3.0,3.0,False,Bachelor,"['React', 'JavaScript', 'HTML', 'CSS', 'Redux']",5
+234,Bachelor's in Software Engineering,Senior,Backend Developer,7.0,7.0,False,Bachelor,"['Java', 'Hibernate', 'SQL', 'REST APIs']",4
+235,Bachelor's in Marketing,Mid,Marketing,3.0,3.0,False,Bachelor,"['Digital Marketing', 'SEO', 'PPC', 'Analytics']",4
+236,Master's in Human Resources,Senior,HR,7.0,7.0,False,Master,"['HR Management', 'Recruitment', 'Employee Relations']",3
+237,Bachelor's in Computer Science,Mid,C# Developer,3.0,3.0,False,Bachelor,"['C#', '.NET Core', 'Azure', 'SQL Server']",4
+238,Bachelor's in Computer Science,Entry,Mobile Developer,1.0,1.0,False,Bachelor,"['Swift', 'iOS', 'Xcode', 'UI', 'UX']",5
+239,Master's in Cybersecurity,Senior,Cybersecurity Engineer,7.0,7.0,False,Master,"['Network Security', 'Ethical Hacking', 'SIEM']",3
+240,Master's in Business Administration,Mid,Software Project Manager,3.0,3.0,False,Master,"['Agile', 'JIRA', 'Stakeholder Management']",3
+241,Master's in Data Science,Senior,Data Scientist,7.0,7.0,False,Master,"['Python', 'R', 'SQL', 'Machine Learning']",4
+242,Bachelor's in Design,Entry,Designer,1.0,1.0,False,Bachelor,"['Figma', 'Sketch', 'UI', 'UX', 'Wireframing']",5
+243,Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,3.0,3.0,False,Bachelor,"['Kubernetes', 'Docker', 'GCP', 'CI', 'CD']",5
+244,Bachelor's in Information Technology,Entry,Web Developer,1.0,1.0,False,Bachelor,"['JavaScript', 'Node.js', 'Express', 'MongoDB']",4
+245,Bachelor's in Computer Science,Mid,Full Stack Python Developer,3.0,3.0,False,Bachelor,"['Python', 'Django', 'PostgreSQL', 'JavaScript']",4
+246,Master's in Software Engineering,Senior,Full Stack Java Developer,7.0,7.0,False,Master,"['Java', 'Spring Boot', 'Angular', 'AWS']",4
+247,Bachelor's in Game Development,Mid,Game Developer,3.0,3.0,False,Bachelor,"['C++', 'Unreal Engine', 'VR Development']",3
+248,Bachelor's in Computer Science,Senior,DevOps Engineer,7.0,7.0,False,Bachelor,"['AWS', 'Terraform', 'Jenkins', 'Linux']",4
+249,Bachelor's in Information Technology,Entry,PHP Developer,1.0,1.0,False,Bachelor,"['PHP', 'Symfony', 'MySQL', 'JavaScript']",4
+250,Bachelor's in Computer Science,Mid,Blockchain Developer,3.0,3.0,False,Bachelor,"['Solidity', 'Web3', 'Ethereum', 'JavaScript']",4
+251,Bachelor's in Computer Science,Entry,Frontend Developer,1.0,1.0,False,Bachelor,"['React', 'TypeScript', 'HTML', 'CSS']",4
+252,Bachelor's in Software Engineering,Senior,Backend Developer,7.0,7.0,False,Bachelor,"['Java', 'Spring', 'SQL', 'Microservices']",4
+253,Bachelor's in Marketing,Mid,Marketing,3.0,3.0,False,Bachelor,"['Marketing Campaigns', 'Social Media', 'Analytics']",3
+254,Master's in Human Resources,Senior,HR,7.0,7.0,False,Master,"['HR Policies', 'Recruitment', 'Training']",3
+255,Bachelor's in Computer Science,Mid,C# Developer,3.0,3.0,False,Bachelor,"['C#', 'ASP.NET', 'SQL Server', 'Azure']",4
+256,Bachelor's in Computer Science,Entry,Mobile Developer,1.0,1.0,False,Bachelor,"['Swift', 'iOS Development', 'UI', 'UX', 'Core Data']",5
+257,Master's in Cybersecurity,Senior,Cybersecurity Engineer,7.0,7.0,False,Master,"['Penetration Testing', 'Firewalls', 'SIEM']",3
+258,Master's in Business Administration,Mid,Software Project Manager,3.0,3.0,False,Master,"['Scrum', 'Agile', 'Project Management']",3
+259,Master's in Data Science,Entry,Data Analyst,1.0,1.0,False,Master,"['Python', 'Pandas', 'SQL', 'Tableau']",4
+260,Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,7.0,7.0,False,Bachelor,"['Kubernetes', 'Helm', 'AWS', 'Docker']",4
+261,Bachelor's in Information Technology,Mid,Web Developer,3.0,3.0,False,Bachelor,"['HTML', 'CSS', 'JavaScript', 'Vue.js']",4
+262,PhD in Artificial Intelligence,Senior,AIML,7.0,7.0,False,PhD,"['Python', 'TensorFlow', 'NLP', 'Deep Learning']",4
+263,Bachelor's in Software Engineering,Mid,Mobile Developer,3.0,3.0,False,Bachelor,"['Java', 'Kotlin', 'Android SDK', 'REST APIs']",4
+264,Bachelor's in Computer Science,Entry,Full Stack Python Developer,1.0,1.0,False,Bachelor,"['Python', 'Flask', 'JavaScript', 'SQL']",4
+265,Master's in Software Engineering,Senior,Full Stack Java Developer,7.0,7.0,False,Master,"['Java', 'Spring', 'React', 'AWS']",4
+266,Bachelor's in Graphic Design,Mid,Designer,3.0,3.0,False,Bachelor,"['Adobe XD', 'Figma', 'UI', 'UX', 'Prototyping']",5
+267,Bachelor's in Statistics,Entry,Data Analyst,1.0,1.0,False,Bachelor,"['SQL', 'R', 'Data Visualization', 'Statistics']",4
+268,Bachelor's in Game Development,Mid,Game Developer,3.0,3.0,False,Bachelor,"['C++', 'Unity', 'Game Design', 'VR']",4
+269,Bachelor's in Computer Science,Senior,DevOps Engineer,7.0,7.0,False,Bachelor,"['AWS', 'Jenkins', 'Docker', 'Terraform']",4
+270,Bachelor's in Information Technology,Entry,PHP Developer,1.0,1.0,False,Bachelor,"['PHP', 'Laravel', 'MySQL', 'JavaScript']",4
+271,Master's in Data Science,Mid,Data Scientist,3.0,3.0,False,Master,"['Python', 'TensorFlow', 'Keras', 'NLP']",4
+272,Bachelor's in Computer Science,Senior,Blockchain Developer,7.0,7.0,False,Bachelor,"['Solidity', 'Ethereum', 'Web3', 'Blockchain']",4
+273,Bachelor's in Computer Science,Mid,Frontend Developer,3.0,3.0,False,Bachelor,"['React', 'JavaScript', 'HTML', 'CSS', 'Redux']",5
+274,Bachelor's in Software Engineering,Senior,Backend Developer,7.0,7.0,False,Bachelor,"['Java', 'Hibernate', 'SQL', 'REST APIs']",4
+275,Bachelor's in Marketing,Mid,Marketing,3.0,3.0,False,Bachelor,"['Digital Marketing', 'SEO', 'PPC', 'Analytics']",4
+276,Master's in Human Resources,Senior,HR,7.0,7.0,False,Master,"['HR Management', 'Recruitment', 'Employee Relations']",3
+277,Bachelor's in Computer Science,Mid,C# Developer,3.0,3.0,False,Bachelor,"['C#', '.NET Core', 'Azure', 'SQL Server']",4
+278,Bachelor's in Computer Science,Entry,Mobile Developer,1.0,1.0,False,Bachelor,"['Swift', 'iOS', 'Xcode', 'UI', 'UX']",5
+279,Master's in Cybersecurity,Senior,Cybersecurity Engineer,7.0,7.0,False,Master,"['Network Security', 'Ethical Hacking', 'SIEM']",3
+280,Master's in Business Administration,Mid,Software Project Manager,3.0,3.0,False,Master,"['Agile', 'JIRA', 'Stakeholder Management']",3
+281,Master's in Data Science,Senior,Data Scientist,7.0,7.0,False,Master,"['Python', 'R', 'SQL', 'Machine Learning']",4
+282,Bachelor's in Design,Entry,Designer,1.0,1.0,False,Bachelor,"['Figma', 'Sketch', 'UI', 'UX', 'Wireframing']",5
+283,Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,3.0,3.0,False,Bachelor,"['Kubernetes', 'Docker', 'GCP', 'CI', 'CD']",5
+284,Bachelor's in Information Technology,Entry,Web Developer,1.0,1.0,False,Bachelor,"['JavaScript', 'Node.js', 'Express', 'MongoDB']",4
+285,Bachelor's in Computer Science,Mid,Full Stack Python Developer,3.0,3.0,False,Bachelor,"['Python', 'Django', 'PostgreSQL', 'JavaScript']",4
+286,Master's in Software Engineering,Senior,Full Stack Java Developer,7.0,7.0,False,Master,"['Java', 'Spring Boot', 'Angular', 'AWS']",4
+287,Bachelor's in Game Development,Mid,Game Developer,3.0,3.0,False,Bachelor,"['C++', 'Unreal Engine', 'VR Development']",3
+288,Bachelor's in Computer Science,Senior,DevOps Engineer,7.0,7.0,False,Bachelor,"['AWS', 'Terraform', 'Jenkins', 'Linux']",4
+289,Bachelor's in Information Technology,Entry,PHP Developer,1.0,1.0,False,Bachelor,"['PHP', 'Symfony', 'MySQL', 'JavaScript']",4
+290,Bachelor's in Computer Science,Mid,Blockchain Developer,3.0,3.0,False,Bachelor,"['Solidity', 'Web3', 'Ethereum', 'JavaScript']",4
+291,Bachelor's in Computer Science,Entry,Frontend Developer,1.0,1.0,False,Bachelor,"['React', 'TypeScript', 'HTML', 'CSS']",4
+292,Bachelor's in Software Engineering,Senior,Backend Developer,7.0,7.0,False,Bachelor,"['Java', 'Spring', 'SQL', 'Microservices']",4
+293,Bachelor's in Marketing,Mid,Marketing,3.0,3.0,False,Bachelor,"['Marketing Campaigns', 'Social Media', 'Analytics']",3
+294,Master's in Human Resources,Senior,HR,7.0,7.0,False,Master,"['HR Policies', 'Recruitment', 'Training']",3
+295,Bachelor's in Computer Science,Mid,C# Developer,3.0,3.0,False,Bachelor,"['C#', 'ASP.NET', 'SQL Server', 'Azure']",4
+296,Bachelor's in Computer Science,Entry,Mobile Developer,1.0,1.0,False,Bachelor,"['Swift', 'iOS Development', 'UI', 'UX', 'Core Data']",5
+297,Master's in Cybersecurity,Senior,Cybersecurity Engineer,7.0,7.0,False,Master,"['Penetration Testing', 'Firewalls', 'SIEM']",3
+298,Master's in Business Administration,Mid,Software Project Manager,3.0,3.0,False,Master,"['Scrum', 'Agile', 'Project Management']",3
+299,Master's in Data Science,Entry,Data Analyst,1.0,1.0,False,Master,"['Python', 'Pandas', 'SQL', 'Tableau']",4
+300,Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,7.0,7.0,False,Bachelor,"['Kubernetes', 'Helm', 'AWS', 'Docker']",4
+301,Bachelor's in Information Technology,Mid,Web Developer,3.0,3.0,False,Bachelor,"['HTML', 'CSS', 'JavaScript', 'Vue.js']",4
+302,PhD in Artificial Intelligence,Senior,AIML,7.0,7.0,False,PhD,"['Python', 'TensorFlow', 'NLP', 'Deep Learning']",4
+303,Bachelor's in Software Engineering,Mid,Mobile Developer,3.0,3.0,False,Bachelor,"['Java', 'Kotlin', 'Android SDK', 'REST APIs']",4
+304,Bachelor's in Computer Science,Entry,Full Stack Python Developer,1.0,1.0,False,Bachelor,"['Python', 'Flask', 'JavaScript', 'SQL']",4
+305,Master's in Software Engineering,Senior,Full Stack Java Developer,7.0,7.0,False,Master,"['Java', 'Spring', 'React', 'AWS']",4
+306,Bachelor's in Graphic Design,Mid,Designer,3.0,3.0,False,Bachelor,"['Adobe XD', 'Figma', 'UI', 'UX', 'Prototyping']",5
+307,Bachelor's in Statistics,Entry,Data Analyst,1.0,1.0,False,Bachelor,"['SQL', 'R', 'Data Visualization', 'Statistics']",4
+308,Bachelor's in Game Development,Mid,Game Developer,3.0,3.0,False,Bachelor,"['C++', 'Unity', 'Game Design', 'VR']",4
+309,Bachelor's in Computer Science,Senior,DevOps Engineer,7.0,7.0,False,Bachelor,"['AWS', 'Jenkins', 'Docker', 'Terraform']",4
+310,Bachelor's in Information Technology,Entry,PHP Developer,1.0,1.0,False,Bachelor,"['PHP', 'Laravel', 'MySQL', 'JavaScript']",4
+311,Master's in Data Science,Mid,Data Scientist,3.0,3.0,False,Master,"['Python', 'TensorFlow', 'Keras', 'NLP']",4
+312,Bachelor's in Computer Science,Senior,Blockchain Developer,7.0,7.0,False,Bachelor,"['Solidity', 'Ethereum', 'Web3', 'Blockchain']",4
+313,Bachelor's in Computer Science,Mid,Frontend Developer,3.0,3.0,False,Bachelor,"['React', 'JavaScript', 'HTML', 'CSS', 'Redux']",5
+314,Bachelor's in Software Engineering,Senior,Backend Developer,7.0,7.0,False,Bachelor,"['Java', 'Hibernate', 'SQL', 'REST APIs']",4
+315,Bachelor's in Marketing,Mid,Marketing,3.0,3.0,False,Bachelor,"['Digital Marketing', 'SEO', 'PPC', 'Analytics']",4
+316,Master's in Human Resources,Senior,HR,7.0,7.0,False,Master,"['HR Management', 'Recruitment', 'Employee Relations']",3
+317,Bachelor's in Computer Science,Mid,C# Developer,3.0,3.0,False,Bachelor,"['C#', '.NET Core', 'Azure', 'SQL Server']",4
+318,Bachelor's in Computer Science,Entry,Mobile Developer,1.0,1.0,False,Bachelor,"['Swift', 'iOS', 'Xcode', 'UI', 'UX']",5
+319,Master's in Cybersecurity,Senior,Cybersecurity Engineer,7.0,7.0,False,Master,"['Network Security', 'Ethical Hacking', 'SIEM']",3
+320,Master's in Business Administration,Mid,Software Project Manager,3.0,3.0,False,Master,"['Agile', 'JIRA', 'Stakeholder Management']",3
+321,Master's in Data Science,Senior,Data Scientist,7.0,7.0,False,Master,"['Python', 'R', 'SQL', 'Machine Learning']",4
+322,Bachelor's in Design,Entry,Designer,1.0,1.0,False,Bachelor,"['Figma', 'Sketch', 'UI', 'UX', 'Wireframing']",5
+323,Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,3.0,3.0,False,Bachelor,"['Kubernetes', 'Docker', 'GCP', 'CI', 'CD']",5
+324,Bachelor's in Information Technology,Entry,Web Developer,1.0,1.0,False,Bachelor,"['JavaScript', 'Node.js', 'Express', 'MongoDB']",4
+325,Bachelor's in Computer Science,Mid,Full Stack Python Developer,3.0,3.0,False,Bachelor,"['Python', 'Django', 'PostgreSQL', 'JavaScript']",4
+326,Master's in Software Engineering,Senior,Full Stack Java Developer,7.0,7.0,False,Master,"['Java', 'Spring Boot', 'Angular', 'AWS']",4
+327,Bachelor's in Game Development,Mid,Game Developer,3.0,3.0,False,Bachelor,"['C++', 'Unreal Engine', 'VR Development']",3
+328,Bachelor's in Computer Science,Senior,DevOps Engineer,7.0,7.0,False,Bachelor,"['AWS', 'Terraform', 'Jenkins', 'Linux']",4
+329,Bachelor's in Information Technology,Entry,PHP Developer,1.0,1.0,False,Bachelor,"['PHP', 'Symfony', 'MySQL', 'JavaScript']",4
+330,Bachelor's in Computer Science,Mid,Blockchain Developer,3.0,3.0,False,Bachelor,"['Solidity', 'Web3', 'Ethereum', 'JavaScript']",4
+331,Bachelor's in Computer Science,Entry,Frontend Developer,1.0,1.0,False,Bachelor,"['React', 'TypeScript', 'HTML', 'CSS']",4
+332,Bachelor's in Software Engineering,Senior,Backend Developer,7.0,7.0,False,Bachelor,"['Java', 'Spring', 'SQL', 'Microservices']",4
+333,Bachelor's in Marketing,Mid,Marketing,3.0,3.0,False,Bachelor,"['Marketing Campaigns', 'Social Media', 'Analytics']",3
+334,Master's in Human Resources,Senior,HR,7.0,7.0,False,Master,"['HR Policies', 'Recruitment', 'Training']",3
+335,Bachelor's in Computer Science,Mid,C# Developer,3.0,3.0,False,Bachelor,"['C#', 'ASP.NET', 'SQL Server', 'Azure']",4
+336,Bachelor's in Computer Science,Entry,Mobile Developer,1.0,1.0,False,Bachelor,"['Swift', 'iOS Development', 'UI', 'UX', 'Core Data']",5
+337,Master's in Cybersecurity,Senior,Cybersecurity Engineer,7.0,7.0,False,Master,"['Penetration Testing', 'Firewalls', 'SIEM']",3
+338,Master's in Business Administration,Mid,Software Project Manager,3.0,3.0,False,Master,"['Scrum', 'Agile', 'Project Management']",3
+339,Master's in Data Science,Entry,Data Analyst,1.0,1.0,False,Master,"['Python', 'Pandas', 'SQL', 'Tableau']",4
+340,Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,7.0,7.0,False,Bachelor,"['Kubernetes', 'Helm', 'AWS', 'Docker']",4
+341,Bachelor's in Information Technology,Mid,Web Developer,3.0,3.0,False,Bachelor,"['HTML', 'CSS', 'JavaScript', 'Vue.js']",4
+342,PhD in Artificial Intelligence,Senior,AIML,7.0,7.0,False,PhD,"['Python', 'TensorFlow', 'NLP', 'Deep Learning']",4
+343,Bachelor's in Software Engineering,Mid,Mobile Developer,3.0,3.0,False,Bachelor,"['Java', 'Kotlin', 'Android SDK', 'REST APIs']",4
+344,Bachelor's in Computer Science,Entry,Full Stack Python Developer,1.0,1.0,False,Bachelor,"['Python', 'Flask', 'JavaScript', 'SQL']",4
+345,Master's in Software Engineering,Senior,Full Stack Java Developer,7.0,7.0,False,Master,"['Java', 'Spring', 'React', 'AWS']",4
+346,Bachelor's in Graphic Design,Mid,Designer,3.0,3.0,False,Bachelor,"['Adobe XD', 'Figma', 'UI', 'UX', 'Prototyping']",5
+347,Bachelor's in Statistics,Entry,Data Analyst,1.0,1.0,False,Bachelor,"['SQL', 'R', 'Data Visualization', 'Statistics']",4
+348,Bachelor's in Game Development,Mid,Game Developer,3.0,3.0,False,Bachelor,"['C++', 'Unity', 'Game Design', 'VR']",4
+349,Bachelor's in Computer Science,Senior,DevOps Engineer,7.0,7.0,False,Bachelor,"['AWS', 'Jenkins', 'Docker', 'Terraform']",4
+350,Bachelor's in Information Technology,Entry,PHP Developer,1.0,1.0,False,Bachelor,"['PHP', 'Laravel', 'MySQL', 'JavaScript']",4
+351,Master's in Data Science,Mid,Data Scientist,3.0,3.0,False,Master,"['Python', 'TensorFlow', 'Keras', 'NLP']",4
+352,Bachelor's in Computer Science,Senior,Blockchain Developer,7.0,7.0,False,Bachelor,"['Solidity', 'Ethereum', 'Web3', 'Blockchain']",4
+353,Bachelor's in Computer Science,Mid,Frontend Developer,3.0,3.0,False,Bachelor,"['React', 'JavaScript', 'HTML', 'CSS', 'Redux']",5
+354,Bachelor's in Software Engineering,Senior,Backend Developer,7.0,7.0,False,Bachelor,"['Java', 'Hibernate', 'SQL', 'REST APIs']",4
+355,Bachelor's in Marketing,Mid,Marketing,3.0,3.0,False,Bachelor,"['Digital Marketing', 'SEO', 'PPC', 'Analytics']",4
+356,Master's in Human Resources,Senior,HR,7.0,7.0,False,Master,"['HR Management', 'Recruitment', 'Employee Relations']",3
+357,Bachelor's in Computer Science,Mid,C# Developer,3.0,3.0,False,Bachelor,"['C#', '.NET Core', 'Azure', 'SQL Server']",4
+358,Bachelor's in Computer Science,Entry,Mobile Developer,1.0,1.0,False,Bachelor,"['Swift', 'iOS', 'Xcode', 'UI', 'UX']",5
+359,Master's in Cybersecurity,Senior,Cybersecurity Engineer,7.0,7.0,False,Master,"['Network Security', 'Ethical Hacking', 'SIEM']",3
+360,Master's in Business Administration,Mid,Software Project Manager,3.0,3.0,False,Master,"['Agile', 'JIRA', 'Stakeholder Management']",3
+361,Master's in Data Science,Senior,Data Scientist,7.0,7.0,False,Master,"['Python', 'R', 'SQL', 'Machine Learning']",4
+362,Bachelor's in Design,Entry,Designer,1.0,1.0,False,Bachelor,"['Figma', 'Sketch', 'UI', 'UX', 'Wireframing']",5
+363,Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,3.0,3.0,False,Bachelor,"['Kubernetes', 'Docker', 'GCP', 'CI', 'CD']",5
+364,Bachelor's in Information Technology,Entry,Web Developer,1.0,1.0,False,Bachelor,"['JavaScript', 'Node.js', 'Express', 'MongoDB']",4
+365,Bachelor's in Computer Science,Mid,Full Stack Python Developer,3.0,3.0,False,Bachelor,"['Python', 'Django', 'PostgreSQL', 'JavaScript']",4
+366,Master's in Software Engineering,Senior,Full Stack Java Developer,7.0,7.0,False,Master,"['Java', 'Spring Boot', 'Angular', 'AWS']",4
+367,Bachelor's in Game Development,Mid,Game Developer,3.0,3.0,False,Bachelor,"['C++', 'Unreal Engine', 'VR Development']",3
+368,Bachelor's in Computer Science,Senior,DevOps Engineer,7.0,7.0,False,Bachelor,"['AWS', 'Terraform', 'Jenkins', 'Linux']",4
+369,Bachelor's in Information Technology,Entry,PHP Developer,1.0,1.0,False,Bachelor,"['PHP', 'Symfony', 'MySQL', 'JavaScript']",4
+370,Bachelor's in Computer Science,Mid,Blockchain Developer,3.0,3.0,False,Bachelor,"['Solidity', 'Web3', 'Ethereum', 'JavaScript']",4
+371,Bachelor's in Computer Science,Entry,Frontend Developer,1.0,1.0,False,Bachelor,"['React', 'TypeScript', 'HTML', 'CSS']",4
+372,Bachelor's in Software Engineering,Senior,Backend Developer,7.0,7.0,False,Bachelor,"['Java', 'Spring', 'SQL', 'Microservices']",4
+373,Bachelor's in Marketing,Mid,Marketing,3.0,3.0,False,Bachelor,"['Marketing Campaigns', 'Social Media', 'Analytics']",3
+374,Master's in Human Resources,Senior,HR,7.0,7.0,False,Master,"['HR Policies', 'Recruitment', 'Training']",3
+375,Bachelor's in Computer Science,Mid,C# Developer,3.0,3.0,False,Bachelor,"['C#', 'ASP.NET', 'SQL Server', 'Azure']",4
+376,Bachelor's in Computer Science,Entry,Mobile Developer,1.0,1.0,False,Bachelor,"['Swift', 'iOS Development', 'UI', 'UX', 'Core Data']",5
+377,Master's in Cybersecurity,Senior,Cybersecurity Engineer,7.0,7.0,False,Master,"['Penetration Testing', 'Firewalls', 'SIEM']",3
+378,Master's in Business Administration,Mid,Software Project Manager,3.0,3.0,False,Master,"['Scrum', 'Agile', 'Project Management']",3
+379,Master's in Data Science,Entry,Data Analyst,1.0,1.0,False,Master,"['Python', 'Pandas', 'SQL', 'Tableau']",4
+380,Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,7.0,7.0,False,Bachelor,"['Kubernetes', 'Helm', 'AWS', 'Docker']",4
+381,Bachelor's in Information Technology,Mid,Web Developer,3.0,3.0,False,Bachelor,"['HTML', 'CSS', 'JavaScript', 'Vue.js']",4
+382,PhD in Artificial Intelligence,Senior,AIML,7.0,7.0,False,PhD,"['Python', 'TensorFlow', 'NLP', 'Deep Learning']",4
+383,Bachelor's in Software Engineering,Mid,Mobile Developer,3.0,3.0,False,Bachelor,"['Java', 'Kotlin', 'Android SDK', 'REST APIs']",4
+384,Bachelor's in Computer Science,Entry,Full Stack Python Developer,1.0,1.0,False,Bachelor,"['Python', 'Flask', 'JavaScript', 'SQL']",4
+385,Master's in Software Engineering,Senior,Full Stack Java Developer,7.0,7.0,False,Master,"['Java', 'Spring', 'React', 'AWS']",4
+386,Bachelor's in Graphic Design,Mid,Designer,3.0,3.0,False,Bachelor,"['Adobe XD', 'Figma', 'UI', 'UX', 'Prototyping']",5
+387,Bachelor's in Statistics,Entry,Data Analyst,1.0,1.0,False,Bachelor,"['SQL', 'R', 'Data Visualization', 'Statistics']",4
+388,Bachelor's in Game Development,Mid,Game Developer,3.0,3.0,False,Bachelor,"['C++', 'Unity', 'Game Design', 'VR']",4
+389,Bachelor's in Computer Science,Senior,DevOps Engineer,7.0,7.0,False,Bachelor,"['AWS', 'Jenkins', 'Docker', 'Terraform']",4
+390,Bachelor's in Information Technology,Entry,PHP Developer,1.0,1.0,False,Bachelor,"['PHP', 'Laravel', 'MySQL', 'JavaScript']",4
+391,Master's in Data Science,Mid,Data Scientist,3.0,3.0,False,Master,"['Python', 'TensorFlow', 'Keras', 'NLP']",4
+392,Bachelor's in Computer Science,Senior,Blockchain Developer,7.0,7.0,False,Bachelor,"['Solidity', 'Ethereum', 'Web3', 'Blockchain']",4
+393,Bachelor's in Computer Science,Mid,Frontend Developer,3.0,3.0,False,Bachelor,"['React', 'JavaScript', 'HTML', 'CSS', 'Redux']",5
+394,Bachelor's in Software Engineering,Senior,Backend Developer,7.0,7.0,False,Bachelor,"['Java', 'Hibernate', 'SQL', 'REST APIs']",4
+395,Bachelor's in Marketing,Mid,Marketing,3.0,3.0,False,Bachelor,"['Digital Marketing', 'SEO', 'PPC', 'Analytics']",4
+396,Master's in Human Resources,Senior,HR,7.0,7.0,False,Master,"['HR Management', 'Recruitment', 'Employee Relations']",3
+397,Bachelor's in Computer Science,Mid,C# Developer,3.0,3.0,False,Bachelor,"['C#', '.NET Core', 'Azure', 'SQL Server']",4
+398,Bachelor's in Computer Science,Entry,Mobile Developer,1.0,1.0,False,Bachelor,"['Swift', 'iOS', 'Xcode', 'UI', 'UX']",5
+399,Master's in Cybersecurity,Senior,Cybersecurity Engineer,7.0,7.0,False,Master,"['Network Security', 'Ethical Hacking', 'SIEM']",3
+400,Master's in Business Administration,Mid,Software Project Manager,3.0,3.0,False,Master,"['Agile', 'JIRA', 'Stakeholder Management']",3
+401,Master's in Data Science,Senior,Data Scientist,7.0,7.0,False,Master,"['Python', 'R', 'SQL', 'Machine Learning']",4
+402,Bachelor's in Design,Entry,Designer,1.0,1.0,False,Bachelor,"['Figma', 'Sketch', 'UI', 'UX', 'Wireframing']",5
+403,Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,3.0,3.0,False,Bachelor,"['Kubernetes', 'Docker', 'GCP', 'CI', 'CD']",5
+404,Bachelor's in Information Technology,Entry,Web Developer,1.0,1.0,False,Bachelor,"['JavaScript', 'Node.js', 'Express', 'MongoDB']",4
+405,Bachelor's in Computer Science,Mid,Full Stack Python Developer,3.0,3.0,False,Bachelor,"['Python', 'Django', 'PostgreSQL', 'JavaScript']",4
+406,Master's in Software Engineering,Senior,Full Stack Java Developer,7.0,7.0,False,Master,"['Java', 'Spring Boot', 'Angular', 'AWS']",4
+407,Bachelor's in Game Development,Mid,Game Developer,3.0,3.0,False,Bachelor,"['C++', 'Unreal Engine', 'VR Development']",3
+408,Bachelor's in Computer Science,Senior,DevOps Engineer,7.0,7.0,False,Bachelor,"['AWS', 'Terraform', 'Jenkins', 'Linux']",4
+409,Bachelor's in Information Technology,Entry,PHP Developer,1.0,1.0,False,Bachelor,"['PHP', 'Symfony', 'MySQL', 'JavaScript']",4
+410,Bachelor's in Computer Science,Mid,Blockchain Developer,3.0,3.0,False,Bachelor,"['Solidity', 'Web3', 'Ethereum', 'JavaScript']",4
+411,Bachelor's in Computer Science,Entry,Frontend Developer,1.0,1.0,False,Bachelor,"['React', 'TypeScript', 'HTML', 'CSS']",4
+412,Bachelor's in Software Engineering,Senior,Backend Developer,7.0,7.0,False,Bachelor,"['Java', 'Spring', 'SQL', 'Microservices']",4
+413,Bachelor's in Marketing,Mid,Marketing,3.0,3.0,False,Bachelor,"['Marketing Campaigns', 'Social Media', 'Analytics']",3
+414,Master's in Human Resources,Senior,HR,7.0,7.0,False,Master,"['HR Policies', 'Recruitment', 'Training']",3
+415,Bachelor's in Computer Science,Mid,C# Developer,3.0,3.0,False,Bachelor,"['C#', 'ASP.NET', 'SQL Server', 'Azure']",4
+416,Bachelor's in Computer Science,Entry,Mobile Developer,1.0,1.0,False,Bachelor,"['Swift', 'iOS Development', 'UI', 'UX', 'Core Data']",5
+417,Master's in Cybersecurity,Senior,Cybersecurity Engineer,7.0,7.0,False,Master,"['Penetration Testing', 'Firewalls', 'SIEM']",3
+418,Master's in Business Administration,Mid,Software Project Manager,3.0,3.0,False,Master,"['Scrum', 'Agile', 'Project Management']",3
+419,Master's in Data Science,Entry,Data Analyst,1.0,1.0,False,Master,"['Python', 'Pandas', 'SQL', 'Tableau']",4
+420,Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,7.0,7.0,False,Bachelor,"['Kubernetes', 'Helm', 'AWS', 'Docker']",4
+421,Bachelor's in Information Technology,Mid,Web Developer,3.0,3.0,False,Bachelor,"['HTML', 'CSS', 'JavaScript', 'Vue.js']",4
+422,PhD in Artificial Intelligence,Senior,AIML,7.0,7.0,False,PhD,"['Python', 'TensorFlow', 'NLP', 'Deep Learning']",4
+423,Bachelor's in Software Engineering,Mid,Mobile Developer,3.0,3.0,False,Bachelor,"['Java', 'Kotlin', 'Android SDK', 'REST APIs']",4
+424,Bachelor's in Computer Science,Entry,Full Stack Python Developer,1.0,1.0,False,Bachelor,"['Python', 'Flask', 'JavaScript', 'SQL']",4
+425,Master's in Software Engineering,Senior,Full Stack Java Developer,7.0,7.0,False,Master,"['Java', 'Spring', 'React', 'AWS']",4
+426,Bachelor's in Graphic Design,Mid,Designer,3.0,3.0,False,Bachelor,"['Adobe XD', 'Figma', 'UI', 'UX', 'Prototyping']",5
+427,Bachelor's in Statistics,Entry,Data Analyst,1.0,1.0,False,Bachelor,"['SQL', 'R', 'Data Visualization', 'Statistics']",4
+428,Bachelor's in Game Development,Mid,Game Developer,3.0,3.0,False,Bachelor,"['C++', 'Unity', 'Game Design', 'VR']",4
+429,Bachelor's in Computer Science,Senior,DevOps Engineer,7.0,7.0,False,Bachelor,"['AWS', 'Jenkins', 'Docker', 'Terraform']",4
+430,Bachelor's in Information Technology,Entry,PHP Developer,1.0,1.0,False,Bachelor,"['PHP', 'Laravel', 'MySQL', 'JavaScript']",4
+431,Master's in Data Science,Mid,Data Scientist,3.0,3.0,False,Master,"['Python', 'TensorFlow', 'Keras', 'NLP']",4
+432,Bachelor's in Computer Science,Senior,Blockchain Developer,7.0,7.0,False,Bachelor,"['Solidity', 'Ethereum', 'Web3', 'Blockchain']",4
+433,Bachelor's in Computer Science,Mid,Frontend Developer,3.0,3.0,False,Bachelor,"['React', 'JavaScript', 'HTML', 'CSS', 'Redux']",5
+434,Bachelor's in Software Engineering,Senior,Backend Developer,7.0,7.0,False,Bachelor,"['Java', 'Hibernate', 'SQL', 'REST APIs']",4
+435,Bachelor's in Marketing,Mid,Marketing,3.0,3.0,False,Bachelor,"['Digital Marketing', 'SEO', 'PPC', 'Analytics']",4
+436,Master's in Human Resources,Senior,HR,7.0,7.0,False,Master,"['HR Management', 'Recruitment', 'Employee Relations']",3
+437,Bachelor's in Computer Science,Mid,C# Developer,3.0,3.0,False,Bachelor,"['C#', '.NET Core', 'Azure', 'SQL Server']",4
+438,Bachelor's in Computer Science,Entry,Mobile Developer,1.0,1.0,False,Bachelor,"['Swift', 'iOS', 'Xcode', 'UI', 'UX']",5
+439,Master's in Cybersecurity,Senior,Cybersecurity Engineer,7.0,7.0,False,Master,"['Network Security', 'Ethical Hacking', 'SIEM']",3
+440,Master's in Business Administration,Mid,Software Project Manager,3.0,3.0,False,Master,"['Agile', 'JIRA', 'Stakeholder Management']",3
+441,Master's in Data Science,Senior,Data Scientist,7.0,7.0,False,Master,"['Python', 'R', 'SQL', 'Machine Learning']",4
+442,Bachelor's in Design,Entry,Designer,1.0,1.0,False,Bachelor,"['Figma', 'Sketch', 'UI', 'UX', 'Wireframing']",5
+443,Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,3.0,3.0,False,Bachelor,"['Kubernetes', 'Docker', 'GCP', 'CI', 'CD']",5
+444,Bachelor's in Information Technology,Entry,Web Developer,1.0,1.0,False,Bachelor,"['JavaScript', 'Node.js', 'Express', 'MongoDB']",4
+445,Bachelor's in Computer Science,Mid,Full Stack Python Developer,3.0,3.0,False,Bachelor,"['Python', 'Django', 'PostgreSQL', 'JavaScript']",4
+446,Master's in Software Engineering,Senior,Full Stack Java Developer,7.0,7.0,False,Master,"['Java', 'Spring Boot', 'Angular', 'AWS']",4
+447,Bachelor's in Game Development,Mid,Game Developer,3.0,3.0,False,Bachelor,"['C++', 'Unreal Engine', 'VR Development']",3
+448,Bachelor's in Computer Science,Senior,DevOps Engineer,7.0,7.0,False,Bachelor,"['AWS', 'Terraform', 'Jenkins', 'Linux']",4
+449,Bachelor's in Information Technology,Entry,PHP Developer,1.0,1.0,False,Bachelor,"['PHP', 'Symfony', 'MySQL', 'JavaScript']",4
+450,Bachelor's in Computer Science,Mid,Blockchain Developer,3.0,3.0,False,Bachelor,"['Solidity', 'Web3', 'Ethereum', 'JavaScript']",4
+451,Bachelor's in Computer Science,Entry,Frontend Developer,1.0,1.0,False,Bachelor,"['React', 'TypeScript', 'HTML', 'CSS']",4
+452,Bachelor's in Software Engineering,Senior,Backend Developer,7.0,7.0,False,Bachelor,"['Java', 'Spring', 'SQL', 'Microservices']",4
+453,Bachelor's in Marketing,Mid,Marketing,3.0,3.0,False,Bachelor,"['Marketing Campaigns', 'Social Media', 'Analytics']",3
+454,Master's in Human Resources,Senior,HR,7.0,7.0,False,Master,"['HR Policies', 'Recruitment', 'Training']",3
+455,Bachelor's in Computer Science,Mid,C# Developer,3.0,3.0,False,Bachelor,"['C#', 'ASP.NET', 'SQL Server', 'Azure']",4
+456,Bachelor's in Computer Science,Entry,Mobile Developer,1.0,1.0,False,Bachelor,"['Swift', 'iOS Development', 'UI', 'UX', 'Core Data']",5
+457,Master's in Cybersecurity,Senior,Cybersecurity Engineer,7.0,7.0,False,Master,"['Penetration Testing', 'Firewalls', 'SIEM']",3
+458,Master's in Business Administration,Mid,Software Project Manager,3.0,3.0,False,Master,"['Scrum', 'Agile', 'Project Management']",3
+459,Master's in Data Science,Entry,Data Analyst,1.0,1.0,False,Master,"['Python', 'Pandas', 'SQL', 'Tableau']",4
+460,Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,7.0,7.0,False,Bachelor,"['Kubernetes', 'Helm', 'AWS', 'Docker']",4
+461,Bachelor's in Information Technology,Mid,Web Developer,3.0,3.0,False,Bachelor,"['HTML', 'CSS', 'JavaScript', 'Vue.js']",4
+462,PhD in Artificial Intelligence,Senior,AIML,7.0,7.0,False,PhD,"['Python', 'TensorFlow', 'NLP', 'Deep Learning']",4
+463,Bachelor's in Software Engineering,Mid,Mobile Developer,3.0,3.0,False,Bachelor,"['Java', 'Kotlin', 'Android SDK', 'REST APIs']",4
+464,Bachelor's in Computer Science,Entry,Full Stack Python Developer,1.0,1.0,False,Bachelor,"['Python', 'Flask', 'JavaScript', 'SQL']",4
+465,Master's in Software Engineering,Senior,Full Stack Java Developer,7.0,7.0,False,Master,"['Java', 'Spring', 'React', 'AWS']",4
+466,Bachelor's in Graphic Design,Mid,Designer,3.0,3.0,False,Bachelor,"['Adobe XD', 'Figma', 'UI', 'UX', 'Prototyping']",5
+467,Bachelor's in Statistics,Entry,Data Analyst,1.0,1.0,False,Bachelor,"['SQL', 'R', 'Data Visualization', 'Statistics']",4
+468,Bachelor's in Game Development,Mid,Game Developer,3.0,3.0,False,Bachelor,"['C++', 'Unity', 'Game Design', 'VR']",4
+469,Bachelor's in Computer Science,Senior,DevOps Engineer,7.0,7.0,False,Bachelor,"['AWS', 'Jenkins', 'Docker', 'Terraform']",4
+470,Bachelor's in Information Technology,Entry,PHP Developer,1.0,1.0,False,Bachelor,"['PHP', 'Laravel', 'MySQL', 'JavaScript']",4
+471,Master's in Data Science,Mid,Data Scientist,3.0,3.0,False,Master,"['Python', 'TensorFlow', 'Keras', 'NLP']",4
+472,Bachelor's in Computer Science,Senior,Blockchain Developer,7.0,7.0,False,Bachelor,"['Solidity', 'Ethereum', 'Web3', 'Blockchain']",4
+473,Bachelor's in Computer Science,Mid,Frontend Developer,3.0,3.0,False,Bachelor,"['React', 'JavaScript', 'HTML', 'CSS', 'Redux']",5
+474,Bachelor's in Software Engineering,Senior,Backend Developer,7.0,7.0,False,Bachelor,"['Java', 'Hibernate', 'SQL', 'REST APIs']",4
+475,Bachelor's in Marketing,Mid,Marketing,3.0,3.0,False,Bachelor,"['Digital Marketing', 'SEO', 'PPC', 'Analytics']",4
+476,Master's in Human Resources,Senior,HR,7.0,7.0,False,Master,"['HR Management', 'Recruitment', 'Employee Relations']",3
+477,Bachelor's in Computer Science,Mid,C# Developer,3.0,3.0,False,Bachelor,"['C#', '.NET Core', 'Azure', 'SQL Server']",4
+478,Bachelor's in Computer Science,Entry,Mobile Developer,1.0,1.0,False,Bachelor,"['Swift', 'iOS', 'Xcode', 'UI', 'UX']",5
+479,Master's in Cybersecurity,Senior,Cybersecurity Engineer,7.0,7.0,False,Master,"['Network Security', 'Ethical Hacking', 'SIEM']",3
+480,Master's in Business Administration,Mid,Software Project Manager,3.0,3.0,False,Master,"['Agile', 'JIRA', 'Stakeholder Management']",3
+481,Master's in Data Science,Senior,Data Scientist,7.0,7.0,False,Master,"['Python', 'R', 'SQL', 'Machine Learning']",4
+482,Bachelor's in Design,Entry,Designer,1.0,1.0,False,Bachelor,"['Figma', 'Sketch', 'UI', 'UX', 'Wireframing']",5
+483,Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,3.0,3.0,False,Bachelor,"['Kubernetes', 'Docker', 'GCP', 'CI', 'CD']",5
+484,Bachelor's in Information Technology,Entry,Web Developer,1.0,1.0,False,Bachelor,"['JavaScript', 'Node.js', 'Express', 'MongoDB']",4
+485,Bachelor's in Computer Science,Mid,Full Stack Python Developer,3.0,3.0,False,Bachelor,"['Python', 'Django', 'PostgreSQL', 'JavaScript']",4
+486,Master's in Software Engineering,Senior,Full Stack Java Developer,7.0,7.0,False,Master,"['Java', 'Spring Boot', 'Angular', 'AWS']",4
+487,Bachelor's in Game Development,Mid,Game Developer,3.0,3.0,False,Bachelor,"['C++', 'Unreal Engine', 'VR Development']",3
+488,Bachelor's in Computer Science,Senior,DevOps Engineer,7.0,7.0,False,Bachelor,"['AWS', 'Terraform', 'Jenkins', 'Linux']",4
+489,Bachelor's in Information Technology,Entry,PHP Developer,1.0,1.0,False,Bachelor,"['PHP', 'Symfony', 'MySQL', 'JavaScript']",4
+490,Bachelor's in Computer Science,Mid,Blockchain Developer,3.0,3.0,False,Bachelor,"['Solidity', 'Web3', 'Ethereum', 'JavaScript']",4
+491,Bachelor's in Computer Science,Entry,Frontend Developer,1.0,1.0,False,Bachelor,"['React', 'TypeScript', 'HTML', 'CSS']",4
+492,Bachelor's in Software Engineering,Senior,Backend Developer,7.0,7.0,False,Bachelor,"['Java', 'Spring', 'SQL', 'Microservices']",4
+493,Bachelor's in Marketing,Mid,Marketing,3.0,3.0,False,Bachelor,"['Marketing Campaigns', 'Social Media', 'Analytics']",3
+494,Master's in Human Resources,Senior,HR,7.0,7.0,False,Master,"['HR Policies', 'Recruitment', 'Training']",3
+495,Bachelor's in Computer Science,Mid,C# Developer,3.0,3.0,False,Bachelor,"['C#', 'ASP.NET', 'SQL Server', 'Azure']",4
+496,Bachelor's in Computer Science,Entry,Mobile Developer,1.0,1.0,False,Bachelor,"['Swift', 'iOS Development', 'UI', 'UX', 'Core Data']",5
+497,Master's in Cybersecurity,Senior,Cybersecurity Engineer,7.0,7.0,False,Master,"['Penetration Testing', 'Firewalls', 'SIEM']",3
+498,Master's in Business Administration,Mid,Software Project Manager,3.0,3.0,False,Master,"['Scrum', 'Agile', 'Project Management']",3
+499,Master's in Data Science,Entry,Data Analyst,1.0,1.0,False,Master,"['Python', 'Pandas', 'SQL', 'Tableau']",4
+500,Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,7.0,7.0,False,Bachelor,"['Kubernetes', 'Helm', 'AWS', 'Docker']",4
+501,Bachelor's in Information Technology,Mid,Web Developer,3.0,3.0,False,Bachelor,"['HTML', 'CSS', 'JavaScript', 'Vue.js']",4
+502,PhD in Artificial Intelligence,Senior,AIML,7.0,7.0,False,PhD,"['Python', 'TensorFlow', 'NLP', 'Deep Learning']",4
+503,Bachelor's in Software Engineering,Mid,Mobile Developer,3.0,3.0,False,Bachelor,"['Java', 'Kotlin', 'Android SDK', 'REST APIs']",4
+504,Bachelor's in Computer Science,Entry,Full Stack Python Developer,1.0,1.0,False,Bachelor,"['Python', 'Flask', 'JavaScript', 'SQL']",4
+505,Master's in Software Engineering,Senior,Full Stack Java Developer,7.0,7.0,False,Master,"['Java', 'Spring', 'React', 'AWS']",4
+506,Bachelor's in Graphic Design,Mid,Designer,3.0,3.0,False,Bachelor,"['Adobe XD', 'Figma', 'UI', 'UX', 'Prototyping']",5
+507,Bachelor's in Statistics,Entry,Data Analyst,1.0,1.0,False,Bachelor,"['SQL', 'R', 'Data Visualization', 'Statistics']",4
+508,Bachelor's in Game Development,Mid,Game Developer,3.0,3.0,False,Bachelor,"['C++', 'Unity', 'Game Design', 'VR']",4
+509,Bachelor's in Computer Science,Senior,DevOps Engineer,7.0,7.0,False,Bachelor,"['AWS', 'Jenkins', 'Docker', 'Terraform']",4
+510,Bachelor's in Information Technology,Entry,PHP Developer,1.0,1.0,False,Bachelor,"['PHP', 'Laravel', 'MySQL', 'JavaScript']",4
+511,Master's in Data Science,Mid,Data Scientist,3.0,3.0,False,Master,"['Python', 'TensorFlow', 'Keras', 'NLP']",4
+512,Bachelor's in Computer Science,Senior,Blockchain Developer,7.0,7.0,False,Bachelor,"['Solidity', 'Ethereum', 'Web3', 'Blockchain']",4
+513,Bachelor's in Computer Science,Mid,Frontend Developer,3.0,3.0,False,Bachelor,"['React', 'JavaScript', 'HTML', 'CSS', 'Redux']",5
+514,Bachelor's in Software Engineering,Senior,Backend Developer,7.0,7.0,False,Bachelor,"['Java', 'Hibernate', 'SQL', 'REST APIs']",4
+515,Bachelor's in Marketing,Mid,Marketing,3.0,3.0,False,Bachelor,"['Digital Marketing', 'SEO', 'PPC', 'Analytics']",4
+516,Master's in Human Resources,Senior,HR,7.0,7.0,False,Master,"['HR Management', 'Recruitment', 'Employee Relations']",3
+517,Bachelor's in Computer Science,Mid,C# Developer,3.0,3.0,False,Bachelor,"['C#', '.NET Core', 'Azure', 'SQL Server']",4
+518,Bachelor's in Computer Science,Entry,Mobile Developer,1.0,1.0,False,Bachelor,"['Swift', 'iOS', 'Xcode', 'UI', 'UX']",5
+519,Master's in Cybersecurity,Senior,Cybersecurity Engineer,7.0,7.0,False,Master,"['Network Security', 'Ethical Hacking', 'SIEM']",3
+520,Master's in Business Administration,Mid,Software Project Manager,3.0,3.0,False,Master,"['Agile', 'JIRA', 'Stakeholder Management']",3
+521,Master's in Data Science,Senior,Data Scientist,7.0,7.0,False,Master,"['Python', 'R', 'SQL', 'Machine Learning']",4
+522,Bachelor's in Design,Entry,Designer,1.0,1.0,False,Bachelor,"['Figma', 'Sketch', 'UI', 'UX', 'Wireframing']",5
+523,Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,3.0,3.0,False,Bachelor,"['Kubernetes', 'Docker', 'GCP', 'CI', 'CD']",5
+524,Bachelor's in Information Technology,Entry,Web Developer,1.0,1.0,False,Bachelor,"['JavaScript', 'Node.js', 'Express', 'MongoDB']",4
+525,Bachelor's in Computer Science,Mid,Full Stack Python Developer,3.0,3.0,False,Bachelor,"['Python', 'Django', 'PostgreSQL', 'JavaScript']",4
+526,Master's in Software Engineering,Senior,Full Stack Java Developer,7.0,7.0,False,Master,"['Java', 'Spring Boot', 'Angular', 'AWS']",4
+527,Bachelor's in Game Development,Mid,Game Developer,3.0,3.0,False,Bachelor,"['C++', 'Unreal Engine', 'VR Development']",3
+528,Bachelor's in Computer Science,Senior,DevOps Engineer,7.0,7.0,False,Bachelor,"['AWS', 'Terraform', 'Jenkins', 'Linux']",4
+529,Bachelor's in Information Technology,Entry,PHP Developer,1.0,1.0,False,Bachelor,"['PHP', 'Symfony', 'MySQL', 'JavaScript']",4
+530,Bachelor's in Computer Science,Mid,Blockchain Developer,3.0,3.0,False,Bachelor,"['Solidity', 'Web3', 'Ethereum', 'JavaScript']",4
+531,Bachelor's in Computer Science,Entry,Frontend Developer,1.0,1.0,False,Bachelor,"['React', 'TypeScript', 'HTML', 'CSS']",4
+532,Bachelor's in Software Engineering,Senior,Backend Developer,7.0,7.0,False,Bachelor,"['Java', 'Spring', 'SQL', 'Microservices']",4
+533,Bachelor's in Marketing,Mid,Marketing,3.0,3.0,False,Bachelor,"['Marketing Campaigns', 'Social Media', 'Analytics']",3
+534,Master's in Human Resources,Senior,HR,7.0,7.0,False,Master,"['HR Policies', 'Recruitment', 'Training']",3
+535,Bachelor's in Computer Science,Mid,C# Developer,3.0,3.0,False,Bachelor,"['C#', 'ASP.NET', 'SQL Server', 'Azure']",4
+536,Bachelor's in Computer Science,Entry,Mobile Developer,1.0,1.0,False,Bachelor,"['Swift', 'iOS Development', 'UI', 'UX', 'Core Data']",5
+537,Master's in Cybersecurity,Senior,Cybersecurity Engineer,7.0,7.0,False,Master,"['Penetration Testing', 'Firewalls', 'SIEM']",3
+538,Master's in Business Administration,Mid,Software Project Manager,3.0,3.0,False,Master,"['Scrum', 'Agile', 'Project Management']",3
+539,Master's in Data Science,Entry,Data Analyst,1.0,1.0,False,Master,"['Python', 'Pandas', 'SQL', 'Tableau']",4
+540,Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,7.0,7.0,False,Bachelor,"['Kubernetes', 'Helm', 'AWS', 'Docker']",4
+541,Bachelor's in Information Technology,Mid,Web Developer,3.0,3.0,False,Bachelor,"['HTML', 'CSS', 'JavaScript', 'Vue.js']",4
+542,PhD in Artificial Intelligence,Senior,AIML,7.0,7.0,False,PhD,"['Python', 'TensorFlow', 'NLP', 'Deep Learning']",4
+543,Bachelor's in Software Engineering,Mid,Mobile Developer,3.0,3.0,False,Bachelor,"['Java', 'Kotlin', 'Android SDK', 'REST APIs']",4
+544,Bachelor's in Computer Science,Entry,Full Stack Python Developer,1.0,1.0,False,Bachelor,"['Python', 'Flask', 'JavaScript', 'SQL']",4
+545,Master's in Software Engineering,Senior,Full Stack Java Developer,7.0,7.0,False,Master,"['Java', 'Spring', 'React', 'AWS']",4
+546,Bachelor's in Graphic Design,Mid,Designer,3.0,3.0,False,Bachelor,"['Adobe XD', 'Figma', 'UI', 'UX', 'Prototyping']",5
+547,Bachelor's in Statistics,Entry,Data Analyst,1.0,1.0,False,Bachelor,"['SQL', 'R', 'Data Visualization', 'Statistics']",4
+548,Bachelor's in Game Development,Mid,Game Developer,3.0,3.0,False,Bachelor,"['C++', 'Unity', 'Game Design', 'VR']",4
+549,Bachelor's in Computer Science,Senior,DevOps Engineer,7.0,7.0,False,Bachelor,"['AWS', 'Jenkins', 'Docker', 'Terraform']",4
+550,Bachelor's in Information Technology,Entry,PHP Developer,1.0,1.0,False,Bachelor,"['PHP', 'Laravel', 'MySQL', 'JavaScript']",4
+551,Master's in Data Science,Mid,Data Scientist,3.0,3.0,False,Master,"['Python', 'TensorFlow', 'Keras', 'NLP']",4
+552,Bachelor's in Computer Science,Senior,Blockchain Developer,7.0,7.0,False,Bachelor,"['Solidity', 'Ethereum', 'Web3', 'Blockchain']",4
+553,Bachelor's in Computer Science,Mid,Frontend Developer,3.0,3.0,False,Bachelor,"['React', 'JavaScript', 'HTML', 'CSS', 'Redux']",5
+554,Bachelor's in Software Engineering,Senior,Backend Developer,7.0,7.0,False,Bachelor,"['Java', 'Hibernate', 'SQL', 'REST APIs']",4
+555,Bachelor's in Marketing,Mid,Marketing,3.0,3.0,False,Bachelor,"['Digital Marketing', 'SEO', 'PPC', 'Analytics']",4
+556,Master's in Human Resources,Senior,HR,7.0,7.0,False,Master,"['HR Management', 'Recruitment', 'Employee Relations']",3
+557,Bachelor's in Computer Science,Mid,C# Developer,3.0,3.0,False,Bachelor,"['C#', '.NET Core', 'Azure', 'SQL Server']",4
+558,Bachelor's in Computer Science,Entry,Mobile Developer,1.0,1.0,False,Bachelor,"['Swift', 'iOS', 'Xcode', 'UI', 'UX']",5
+559,Master's in Cybersecurity,Senior,Cybersecurity Engineer,7.0,7.0,False,Master,"['Network Security', 'Ethical Hacking', 'SIEM']",3
+560,Master's in Business Administration,Mid,Software Project Manager,3.0,3.0,False,Master,"['Agile', 'JIRA', 'Stakeholder Management']",3
+561,Master's in Data Science,Senior,Data Scientist,7.0,7.0,False,Master,"['Python', 'R', 'SQL', 'Machine Learning']",4
+562,Bachelor's in Design,Entry,Designer,1.0,1.0,False,Bachelor,"['Figma', 'Sketch', 'UI', 'UX', 'Wireframing']",5
+563,Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,3.0,3.0,False,Bachelor,"['Kubernetes', 'Docker', 'GCP', 'CI', 'CD']",5
+564,Bachelor's in Information Technology,Entry,Web Developer,1.0,1.0,False,Bachelor,"['JavaScript', 'Node.js', 'Express', 'MongoDB']",4
+565,Bachelor's in Computer Science,Mid,Full Stack Python Developer,3.0,3.0,False,Bachelor,"['Python', 'Django', 'PostgreSQL', 'JavaScript']",4
+566,Master's in Software Engineering,Senior,Full Stack Java Developer,7.0,7.0,False,Master,"['Java', 'Spring Boot', 'Angular', 'AWS']",4
+567,Bachelor's in Game Development,Mid,Game Developer,3.0,3.0,False,Bachelor,"['C++', 'Unreal Engine', 'VR Development']",3
+568,Bachelor's in Computer Science,Senior,DevOps Engineer,7.0,7.0,False,Bachelor,"['AWS', 'Terraform', 'Jenkins', 'Linux']",4
+569,Bachelor's in Information Technology,Entry,PHP Developer,1.0,1.0,False,Bachelor,"['PHP', 'Symfony', 'MySQL', 'JavaScript']",4
+570,Bachelor's in Computer Science,Mid,Blockchain Developer,3.0,3.0,False,Bachelor,"['Solidity', 'Web3', 'Ethereum', 'JavaScript']",4
+571,Bachelor's in Computer Science,Entry,Frontend Developer,1.0,1.0,False,Bachelor,"['React', 'TypeScript', 'HTML', 'CSS']",4
+572,Bachelor's in Software Engineering,Senior,Backend Developer,7.0,7.0,False,Bachelor,"['Java', 'Spring', 'SQL', 'Microservices']",4
+573,Bachelor's in Marketing,Mid,Marketing,3.0,3.0,False,Bachelor,"['Marketing Campaigns', 'Social Media', 'Analytics']",3
+574,Master's in Human Resources,Senior,HR,7.0,7.0,False,Master,"['HR Policies', 'Recruitment', 'Training']",3
+575,Bachelor's in Computer Science,Mid,C# Developer,3.0,3.0,False,Bachelor,"['C#', 'ASP.NET', 'SQL Server', 'Azure']",4
+576,Bachelor's in Computer Science,Entry,Mobile Developer,1.0,1.0,False,Bachelor,"['Swift', 'iOS Development', 'UI', 'UX', 'Core Data']",5
+577,Master's in Cybersecurity,Senior,Cybersecurity Engineer,7.0,7.0,False,Master,"['Penetration Testing', 'Firewalls', 'SIEM']",3
+578,Master's in Business Administration,Mid,Software Project Manager,3.0,3.0,False,Master,"['Scrum', 'Agile', 'Project Management']",3
+579,Master's in Data Science,Entry,Data Analyst,1.0,1.0,False,Master,"['Python', 'Pandas', 'SQL', 'Tableau']",4
+580,Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,7.0,7.0,False,Bachelor,"['Kubernetes', 'Helm', 'AWS', 'Docker']",4
+581,Bachelor's in Information Technology,Mid,Web Developer,3.0,3.0,False,Bachelor,"['HTML', 'CSS', 'JavaScript', 'Vue.js']",4
+582,PhD in Artificial Intelligence,Senior,AIML,7.0,7.0,False,PhD,"['Python', 'TensorFlow', 'NLP', 'Deep Learning']",4
+583,Bachelor's in Software Engineering,Mid,Mobile Developer,3.0,3.0,False,Bachelor,"['Java', 'Kotlin', 'Android SDK', 'REST APIs']",4
+584,Bachelor's in Computer Science,Entry,Full Stack Python Developer,1.0,1.0,False,Bachelor,"['Python', 'Flask', 'JavaScript', 'SQL']",4
+585,Master's in Software Engineering,Senior,Full Stack Java Developer,7.0,7.0,False,Master,"['Java', 'Spring', 'React', 'AWS']",4
+586,Bachelor's in Graphic Design,Mid,Designer,3.0,3.0,False,Bachelor,"['Adobe XD', 'Figma', 'UI', 'UX', 'Prototyping']",5
+587,Bachelor's in Statistics,Entry,Data Analyst,1.0,1.0,False,Bachelor,"['SQL', 'R', 'Data Visualization', 'Statistics']",4
+588,Bachelor's in Game Development,Mid,Game Developer,3.0,3.0,False,Bachelor,"['C++', 'Unity', 'Game Design', 'VR']",4
+589,Bachelor's in Computer Science,Senior,DevOps Engineer,7.0,7.0,False,Bachelor,"['AWS', 'Jenkins', 'Docker', 'Terraform']",4
+590,Bachelor's in Information Technology,Entry,PHP Developer,1.0,1.0,False,Bachelor,"['PHP', 'Laravel', 'MySQL', 'JavaScript']",4
+591,Master's in Data Science,Mid,Data Scientist,3.0,3.0,False,Master,"['Python', 'TensorFlow', 'Keras', 'NLP']",4
+592,Bachelor's in Computer Science,Senior,Blockchain Developer,7.0,7.0,False,Bachelor,"['Solidity', 'Ethereum', 'Web3', 'Blockchain']",4
+593,Bachelor's in Computer Science,Mid,Frontend Developer,3.0,3.0,False,Bachelor,"['React', 'JavaScript', 'HTML', 'CSS', 'Redux']",5
+594,Bachelor's in Software Engineering,Senior,Backend Developer,7.0,7.0,False,Bachelor,"['Java', 'Hibernate', 'SQL', 'REST APIs']",4
+595,Bachelor's in Marketing,Mid,Marketing,3.0,3.0,False,Bachelor,"['Digital Marketing', 'SEO', 'PPC', 'Analytics']",4
+596,Master's in Human Resources,Senior,HR,7.0,7.0,False,Master,"['HR Management', 'Recruitment', 'Employee Relations']",3
+597,Bachelor's in Computer Science,Mid,C# Developer,3.0,3.0,False,Bachelor,"['C#', '.NET Core', 'Azure', 'SQL Server']",4
+598,Bachelor's in Computer Science,Entry,Mobile Developer,1.0,1.0,False,Bachelor,"['Swift', 'iOS', 'Xcode', 'UI', 'UX']",5
+599,Master's in Cybersecurity,Senior,Cybersecurity Engineer,7.0,7.0,False,Master,"['Network Security', 'Ethical Hacking', 'SIEM']",3
+600,Master's in Business Administration,Mid,Software Project Manager,3.0,3.0,False,Master,"['Agile', 'JIRA', 'Stakeholder Management']",3
+601,Master's in Data Science,Senior,Data Scientist,7.0,7.0,False,Master,"['Python', 'R', 'SQL', 'Machine Learning']",4
+602,Bachelor's in Design,Entry,Designer,1.0,1.0,False,Bachelor,"['Figma', 'Sketch', 'UI', 'UX', 'Wireframing']",5
+603,Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,3.0,3.0,False,Bachelor,"['Kubernetes', 'Docker', 'GCP', 'CI', 'CD']",5
+604,Bachelor's in Information Technology,Entry,Web Developer,1.0,1.0,False,Bachelor,"['JavaScript', 'Node.js', 'Express', 'MongoDB']",4
+605,Bachelor's in Computer Science,Mid,Full Stack Python Developer,3.0,3.0,False,Bachelor,"['Python', 'Django', 'PostgreSQL', 'JavaScript']",4
+606,Master's in Software Engineering,Senior,Full Stack Java Developer,7.0,7.0,False,Master,"['Java', 'Spring Boot', 'Angular', 'AWS']",4
+607,Bachelor's in Game Development,Mid,Game Developer,3.0,3.0,False,Bachelor,"['C++', 'Unreal Engine', 'VR Development']",3
+608,Bachelor's in Computer Science,Senior,DevOps Engineer,7.0,7.0,False,Bachelor,"['AWS', 'Terraform', 'Jenkins', 'Linux']",4
+609,Bachelor's in Information Technology,Entry,PHP Developer,1.0,1.0,False,Bachelor,"['PHP', 'Symfony', 'MySQL', 'JavaScript']",4
+610,Bachelor's in Computer Science,Mid,Blockchain Developer,3.0,3.0,False,Bachelor,"['Solidity', 'Web3', 'Ethereum', 'JavaScript']",4
+611,Bachelor's in Computer Science,Entry,Frontend Developer,1.0,1.0,False,Bachelor,"['React', 'TypeScript', 'HTML', 'CSS']",4
+612,Bachelor's in Software Engineering,Senior,Backend Developer,7.0,7.0,False,Bachelor,"['Java', 'Spring', 'SQL', 'Microservices']",4
+613,Bachelor's in Marketing,Mid,Marketing,3.0,3.0,False,Bachelor,"['Marketing Campaigns', 'Social Media', 'Analytics']",3
+614,Master's in Human Resources,Senior,HR,7.0,7.0,False,Master,"['HR Policies', 'Recruitment', 'Training']",3
+615,Bachelor's in Computer Science,Mid,C# Developer,3.0,3.0,False,Bachelor,"['C#', 'ASP.NET', 'SQL Server', 'Azure']",4
+616,Bachelor's in Computer Science,Entry,Mobile Developer,1.0,1.0,False,Bachelor,"['Swift', 'iOS Development', 'UI', 'UX', 'Core Data']",5
+617,Master's in Cybersecurity,Senior,Cybersecurity Engineer,7.0,7.0,False,Master,"['Penetration Testing', 'Firewalls', 'SIEM']",3
+618,Master's in Business Administration,Mid,Software Project Manager,3.0,3.0,False,Master,"['Scrum', 'Agile', 'Project Management']",3
+619,Master's in Data Science,Entry,Data Analyst,1.0,1.0,False,Master,"['Python', 'Pandas', 'SQL', 'Tableau']",4
+620,Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,7.0,7.0,False,Bachelor,"['Kubernetes', 'Helm', 'AWS', 'Docker']",4
+621,Bachelor's in Information Technology,Mid,Web Developer,3.0,3.0,False,Bachelor,"['HTML', 'CSS', 'JavaScript', 'Vue.js']",4
+622,PhD in Artificial Intelligence,Senior,AIML,7.0,7.0,False,PhD,"['Python', 'TensorFlow', 'NLP', 'Deep Learning']",4
+623,Bachelor's in Software Engineering,Mid,Mobile Developer,3.0,3.0,False,Bachelor,"['Java', 'Kotlin', 'Android SDK', 'REST APIs']",4
+624,Bachelor's in Computer Science,Entry,Full Stack Python Developer,1.0,1.0,False,Bachelor,"['Python', 'Flask', 'JavaScript', 'SQL']",4
+625,Master's in Software Engineering,Senior,Full Stack Java Developer,7.0,7.0,False,Master,"['Java', 'Spring', 'React', 'AWS']",4
+626,Bachelor's in Graphic Design,Mid,Designer,3.0,3.0,False,Bachelor,"['Adobe XD', 'Figma', 'UI', 'UX', 'Prototyping']",5
+627,Bachelor's in Statistics,Entry,Data Analyst,1.0,1.0,False,Bachelor,"['SQL', 'R', 'Data Visualization', 'Statistics']",4
+628,Bachelor's in Game Development,Mid,Game Developer,3.0,3.0,False,Bachelor,"['C++', 'Unity', 'Game Design', 'VR']",4
+629,Bachelor's in Computer Science,Senior,DevOps Engineer,7.0,7.0,False,Bachelor,"['AWS', 'Jenkins', 'Docker', 'Terraform']",4
+630,Bachelor's in Information Technology,Entry,PHP Developer,1.0,1.0,False,Bachelor,"['PHP', 'Laravel', 'MySQL', 'JavaScript']",4
+631,Master's in Data Science,Mid,Data Scientist,3.0,3.0,False,Master,"['Python', 'TensorFlow', 'Keras', 'NLP']",4
+632,Bachelor's in Computer Science,Senior,Blockchain Developer,7.0,7.0,False,Bachelor,"['Solidity', 'Ethereum', 'Web3', 'Blockchain']",4
+633,Bachelor's in Computer Science,Mid,Frontend Developer,3.0,3.0,False,Bachelor,"['React', 'JavaScript', 'HTML', 'CSS', 'Redux']",5
+634,Bachelor's in Software Engineering,Senior,Backend Developer,7.0,7.0,False,Bachelor,"['Java', 'Hibernate', 'SQL', 'REST APIs']",4
+635,Bachelor's in Marketing,Mid,Marketing,3.0,3.0,False,Bachelor,"['Digital Marketing', 'SEO', 'PPC', 'Analytics']",4
+636,Master's in Human Resources,Senior,HR,7.0,7.0,False,Master,"['HR Management', 'Recruitment', 'Employee Relations']",3
+637,Bachelor's in Computer Science,Mid,C# Developer,3.0,3.0,False,Bachelor,"['C#', '.NET Core', 'Azure', 'SQL Server']",4
+638,Bachelor's in Computer Science,Entry,Mobile Developer,1.0,1.0,False,Bachelor,"['Swift', 'iOS', 'Xcode', 'UI', 'UX']",5
+639,Master's in Cybersecurity,Senior,Cybersecurity Engineer,7.0,7.0,False,Master,"['Network Security', 'Ethical Hacking', 'SIEM']",3
+640,Master's in Business Administration,Mid,Software Project Manager,3.0,3.0,False,Master,"['Agile', 'JIRA', 'Stakeholder Management']",3
+641,Master's in Data Science,Senior,Data Scientist,7.0,7.0,False,Master,"['Python', 'R', 'SQL', 'Machine Learning']",4
+642,Bachelor's in Design,Entry,Designer,1.0,1.0,False,Bachelor,"['Figma', 'Sketch', 'UI', 'UX', 'Wireframing']",5
+643,Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,3.0,3.0,False,Bachelor,"['Kubernetes', 'Docker', 'GCP', 'CI', 'CD']",5
+644,Bachelor's in Information Technology,Entry,Web Developer,1.0,1.0,False,Bachelor,"['JavaScript', 'Node.js', 'Express', 'MongoDB']",4
+645,Bachelor's in Computer Science,Mid,Full Stack Python Developer,3.0,3.0,False,Bachelor,"['Python', 'Django', 'PostgreSQL', 'JavaScript']",4
+646,Master's in Software Engineering,Senior,Full Stack Java Developer,7.0,7.0,False,Master,"['Java', 'Spring Boot', 'Angular', 'AWS']",4
+647,Bachelor's in Game Development,Mid,Game Developer,3.0,3.0,False,Bachelor,"['C++', 'Unreal Engine', 'VR Development']",3
+648,Bachelor's in Computer Science,Senior,DevOps Engineer,7.0,7.0,False,Bachelor,"['AWS', 'Terraform', 'Jenkins', 'Linux']",4
+649,Bachelor's in Information Technology,Entry,PHP Developer,1.0,1.0,False,Bachelor,"['PHP', 'Symfony', 'MySQL', 'JavaScript']",4
+650,Bachelor's in Computer Science,Mid,Blockchain Developer,3.0,3.0,False,Bachelor,"['Solidity', 'Web3', 'Ethereum', 'JavaScript']",4
+651,Bachelor's in Computer Science,Entry,Frontend Developer,1.0,1.0,False,Bachelor,"['React', 'TypeScript', 'HTML', 'CSS']",4
+652,Bachelor's in Software Engineering,Senior,Backend Developer,7.0,7.0,False,Bachelor,"['Java', 'Spring', 'SQL', 'Microservices']",4
+653,Bachelor's in Marketing,Mid,Marketing,3.0,3.0,False,Bachelor,"['Marketing Campaigns', 'Social Media', 'Analytics']",3
+654,Master's in Human Resources,Senior,HR,7.0,7.0,False,Master,"['HR Policies', 'Recruitment', 'Training']",3
+655,Bachelor's in Computer Science,Mid,C# Developer,3.0,3.0,False,Bachelor,"['C#', 'ASP.NET', 'SQL Server', 'Azure']",4
+656,Bachelor's in Computer Science,Entry,Mobile Developer,1.0,1.0,False,Bachelor,"['Swift', 'iOS Development', 'UI', 'UX', 'Core Data']",5
+657,Master's in Cybersecurity,Senior,Cybersecurity Engineer,7.0,7.0,False,Master,"['Penetration Testing', 'Firewalls', 'SIEM']",3
+658,Master's in Business Administration,Mid,Software Project Manager,3.0,3.0,False,Master,"['Scrum', 'Agile', 'Project Management']",3
+659,Master's in Data Science,Entry,Data Analyst,1.0,1.0,False,Master,"['Python', 'Pandas', 'SQL', 'Tableau']",4
+660,Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,7.0,7.0,False,Bachelor,"['Kubernetes', 'Helm', 'AWS', 'Docker']",4
+661,Bachelor's in Information Technology,Mid,Web Developer,3.0,3.0,False,Bachelor,"['HTML', 'CSS', 'JavaScript', 'Vue.js']",4
+662,PhD in Artificial Intelligence,Senior,AIML,7.0,7.0,False,PhD,"['Python', 'TensorFlow', 'NLP', 'Deep Learning']",4
+663,Bachelor's in Software Engineering,Mid,Mobile Developer,3.0,3.0,False,Bachelor,"['Java', 'Kotlin', 'Android SDK', 'REST APIs']",4
+664,Bachelor's in Computer Science,Entry,Full Stack Python Developer,1.0,1.0,False,Bachelor,"['Python', 'Flask', 'JavaScript', 'SQL']",4
+665,Master's in Software Engineering,Senior,Full Stack Java Developer,7.0,7.0,False,Master,"['Java', 'Spring', 'React', 'AWS']",4
+666,Bachelor's in Graphic Design,Mid,Designer,3.0,3.0,False,Bachelor,"['Adobe XD', 'Figma', 'UI', 'UX', 'Prototyping']",5
+667,Bachelor's in Statistics,Entry,Data Analyst,1.0,1.0,False,Bachelor,"['SQL', 'R', 'Data Visualization', 'Statistics']",4
+668,Bachelor's in Game Development,Mid,Game Developer,3.0,3.0,False,Bachelor,"['C++', 'Unity', 'Game Design', 'VR']",4
+669,Bachelor's in Computer Science,Senior,DevOps Engineer,7.0,7.0,False,Bachelor,"['AWS', 'Jenkins', 'Docker', 'Terraform']",4
+670,Bachelor's in Information Technology,Entry,PHP Developer,1.0,1.0,False,Bachelor,"['PHP', 'Laravel', 'MySQL', 'JavaScript']",4
+671,Master's in Data Science,Mid,Data Scientist,3.0,3.0,False,Master,"['Python', 'TensorFlow', 'Keras', 'NLP']",4
+672,Bachelor's in Computer Science,Senior,Blockchain Developer,7.0,7.0,False,Bachelor,"['Solidity', 'Ethereum', 'Web3', 'Blockchain']",4
+673,Bachelor's in Computer Science,Mid,Frontend Developer,3.0,3.0,False,Bachelor,"['React', 'JavaScript', 'HTML', 'CSS', 'Redux']",5
+674,Bachelor's in Software Engineering,Senior,Backend Developer,7.0,7.0,False,Bachelor,"['Java', 'Hibernate', 'SQL', 'REST APIs']",4
+675,Bachelor's in Marketing,Mid,Marketing,3.0,3.0,False,Bachelor,"['Digital Marketing', 'SEO', 'PPC', 'Analytics']",4
+676,Master's in Human Resources,Senior,HR,7.0,7.0,False,Master,"['HR Management', 'Recruitment', 'Employee Relations']",3
+677,Bachelor's in Computer Science,Mid,C# Developer,3.0,3.0,False,Bachelor,"['C#', '.NET Core', 'Azure', 'SQL Server']",4
+678,Bachelor's in Computer Science,Entry,Mobile Developer,1.0,1.0,False,Bachelor,"['Swift', 'iOS', 'Xcode', 'UI', 'UX']",5
+679,Master's in Cybersecurity,Senior,Cybersecurity Engineer,7.0,7.0,False,Master,"['Network Security', 'Ethical Hacking', 'SIEM']",3
+680,Master's in Business Administration,Mid,Software Project Manager,3.0,3.0,False,Master,"['Agile', 'JIRA', 'Stakeholder Management']",3
+681,Master's in Data Science,Senior,Data Scientist,7.0,7.0,False,Master,"['Python', 'R', 'SQL', 'Machine Learning']",4
+682,Bachelor's in Design,Entry,Designer,1.0,1.0,False,Bachelor,"['Figma', 'Sketch', 'UI', 'UX', 'Wireframing']",5
+683,Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,3.0,3.0,False,Bachelor,"['Kubernetes', 'Docker', 'GCP', 'CI', 'CD']",5
+684,Bachelor's in Information Technology,Entry,Web Developer,1.0,1.0,False,Bachelor,"['JavaScript', 'Node.js', 'Express', 'MongoDB']",4
+685,Bachelor's in Computer Science,Mid,Full Stack Python Developer,3.0,3.0,False,Bachelor,"['Python', 'Django', 'PostgreSQL', 'JavaScript']",4
+686,Master's in Software Engineering,Senior,Full Stack Java Developer,7.0,7.0,False,Master,"['Java', 'Spring Boot', 'Angular', 'AWS']",4
+687,Bachelor's in Game Development,Mid,Game Developer,3.0,3.0,False,Bachelor,"['C++', 'Unreal Engine', 'VR Development']",3
+688,Bachelor's in Computer Science,Senior,DevOps Engineer,7.0,7.0,False,Bachelor,"['AWS', 'Terraform', 'Jenkins', 'Linux']",4
+689,Bachelor's in Information Technology,Entry,PHP Developer,1.0,1.0,False,Bachelor,"['PHP', 'Symfony', 'MySQL', 'JavaScript']",4
+690,Bachelor's in Computer Science,Mid,Blockchain Developer,3.0,3.0,False,Bachelor,"['Solidity', 'Web3', 'Ethereum', 'JavaScript']",4
+691,Bachelor's in Computer Science,Entry,Frontend Developer,1.0,1.0,False,Bachelor,"['React', 'TypeScript', 'HTML', 'CSS']",4
+692,Bachelor's in Software Engineering,Senior,Backend Developer,7.0,7.0,False,Bachelor,"['Java', 'Spring', 'SQL', 'Microservices']",4
+693,Bachelor's in Marketing,Mid,Marketing,3.0,3.0,False,Bachelor,"['Marketing Campaigns', 'Social Media', 'Analytics']",3
+694,Master's in Human Resources,Senior,HR,7.0,7.0,False,Master,"['HR Policies', 'Recruitment', 'Training']",3
+695,Bachelor's in Computer Science,Mid,C# Developer,3.0,3.0,False,Bachelor,"['C#', 'ASP.NET', 'SQL Server', 'Azure']",4
+696,Bachelor's in Computer Science,Entry,Mobile Developer,1.0,1.0,False,Bachelor,"['Swift', 'iOS Development', 'UI', 'UX', 'Core Data']",5
+697,Master's in Cybersecurity,Senior,Cybersecurity Engineer,7.0,7.0,False,Master,"['Penetration Testing', 'Firewalls', 'SIEM']",3
+698,Master's in Business Administration,Mid,Software Project Manager,3.0,3.0,False,Master,"['Scrum', 'Agile', 'Project Management', 'Leadership']",4
+699,Master's in Data Science,Entry,Data Analyst,1.0,1.0,False,Master,"['Python', 'Pandas', 'SQL', 'Data Visualization']",4
+700,Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,7.0,7.0,False,Bachelor,"['Kubernetes', 'Helm', 'AWS', 'Docker', 'CI', 'CD']",6
+701,Bachelor's in Information Technology,Mid,Web Developer,3.0,3.0,False,Bachelor,"['HTML', 'CSS', 'JavaScript', 'Angular']",4
+702,PhD in Artificial Intelligence,Senior,AIML,7.0,7.0,False,PhD,"['Python', 'TensorFlow', 'Deep Learning', 'NLP']",4
+703,Bachelor's in Software Engineering,Mid,Mobile Developer,3.0,3.0,False,Bachelor,"['Java', 'Kotlin', 'Android Development', 'REST APIs']",4
+704,Bachelor's in Computer Science,Entry,Full Stack Python Developer,1.0,1.0,False,Bachelor,"['Python', 'Flask', 'PostgreSQL', 'JavaScript']",4
+705,Master's in Software Engineering,Senior,Full Stack Java Developer,7.0,7.0,False,Master,"['Java', 'Spring Boot', 'React', 'AWS']",4
+706,Bachelor's in Graphic Design,Mid,Designer,3.0,3.0,False,Bachelor,"['Adobe XD', 'Figma', 'UI', 'UX Design', 'Prototyping']",5
+707,Bachelor's in Statistics,Entry,Data Analyst,1.0,1.0,False,Bachelor,"['SQL', 'R', 'Tableau', 'Statistics']",4
+708,Bachelor's in Game Development,Mid,Game Developer,3.0,3.0,False,Bachelor,"['C++', 'Unity', 'Game Physics', 'VR Development']",4
+709,Bachelor's in Computer Science,Senior,DevOps Engineer,7.0,7.0,False,Bachelor,"['AWS', 'Jenkins', 'Docker', 'Ansible']",4
+710,Bachelor's in Information Technology,Entry,PHP Developer,1.0,1.0,False,Bachelor,"['PHP', 'Laravel', 'MySQL', 'JavaScript']",4
+711,Master's in Data Science,Mid,Data Scientist,3.0,3.0,False,Master,"['Python', 'TensorFlow', 'Keras', 'Machine Learning']",4
+712,Bachelor's in Computer Science,Senior,Blockchain Developer,7.0,7.0,False,Bachelor,"['Solidity', 'Ethereum', 'Web3', 'Blockchain']",4
+713,Bachelor's in Computer Science,Mid,Frontend Developer,3.0,3.0,False,Bachelor,"['React', 'JavaScript', 'HTML', 'CSS', 'TypeScript']",5
+714,Bachelor's in Software Engineering,Senior,Backend Developer,7.0,7.0,False,Bachelor,"['Java', 'Hibernate', 'SQL', 'Microservices']",4
+715,Bachelor's in Marketing,Mid,Marketing,3.0,3.0,False,Bachelor,"['Digital Marketing', 'SEO', 'Content Creation', 'Analytics']",4
+716,Master's in Human Resources,Senior,HR,7.0,7.0,False,Master,"['HR Management', 'Recruitment', 'Communication']",3
+717,Bachelor's in Computer Science,Mid,C# Developer,3.0,3.0,False,Bachelor,"['C#', '.NET Core', 'Azure', 'SQL Server']",4
+718,Bachelor's in Computer Science,Entry,Mobile Developer,1.0,1.0,False,Bachelor,"['Swift', 'iOS Development', 'UI', 'UX', 'Core Data']",5
+719,Master's in Cybersecurity,Senior,Cybersecurity Engineer,7.0,7.0,False,Master,"['Network Security', 'Penetration Testing', 'SIEM']",3
+720,Master's in Business Administration,Mid,Software Project Manager,3.0,3.0,False,Master,"['Agile', 'JIRA', 'Stakeholder Management', 'Scrum']",4
+721,Master's in Data Science,Senior,Data Scientist,7.0,7.0,False,Master,"['Python', 'R', 'SQL', 'Machine Learning']",4
+722,Bachelor's in Design,Entry,Designer,1.0,1.0,False,Bachelor,"['Figma', 'Sketch', 'UI', 'UX', 'Wireframing']",5
+723,Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,3.0,3.0,False,Bachelor,"['Kubernetes', 'Docker', 'GCP', 'Terraform']",4
+724,Bachelor's in Information Technology,Entry,Web Developer,1.0,1.0,False,Bachelor,"['JavaScript', 'Node.js', 'Express', 'MongoDB']",4
+725,Bachelor's in Computer Science,Mid,Full Stack Python Developer,3.0,3.0,False,Bachelor,"['Python', 'Django', 'PostgreSQL', 'JavaScript']",4
+726,Master's in Software Engineering,Senior,Full Stack Java Developer,7.0,7.0,False,Master,"['Java', 'Spring Boot', 'Angular', 'AWS']",4
+727,Bachelor's in Game Development,Mid,Game Developer,3.0,3.0,False,Bachelor,"['C++', 'Unreal Engine', 'Game Design', '3D Modeling']",4
+728,Bachelor's in Computer Science,Senior,DevOps Engineer,7.0,7.0,False,Bachelor,"['AWS', 'Terraform', 'Jenkins', 'Linux']",4
+729,Bachelor's in Information Technology,Entry,PHP Developer,1.0,1.0,False,Bachelor,"['PHP', 'Symfony', 'MySQL', 'JavaScript']",4
+730,Bachelor's in Computer Science,Mid,Blockchain Developer,3.0,3.0,False,Bachelor,"['Solidity', 'Web3', 'Ethereum', 'JavaScript']",4
+731,Bachelor's in Computer Science,Entry,Frontend Developer,1.0,1.0,False,Bachelor,"['React', 'TypeScript', 'HTML', 'CSS', 'Redux']",5
+732,Bachelor's in Software Engineering,Senior,Backend Developer,7.0,7.0,False,Bachelor,"['Java', 'Spring', 'SQL', 'REST APIs']",4
+733,Bachelor's in Marketing,Mid,Marketing,3.0,3.0,False,Bachelor,"['Marketing Strategy', 'SEO', 'Social Media', 'PPC']",4
+734,Master's in Human Resources,Senior,HR,7.0,7.0,False,Master,"['HR Policies', 'Recruitment', 'Employee Relations']",3
+735,Bachelor's in Computer Science,Mid,C# Developer,3.0,3.0,False,Bachelor,"['C#', 'ASP.NET', 'SQL Server', 'Azure']",4
+736,Bachelor's in Computer Science,Entry,Mobile Developer,1.0,1.0,False,Bachelor,"['Swift', 'iOS', 'Xcode', 'UI', 'UX']",5
+737,Master's in Cybersecurity,Senior,Cybersecurity Engineer,7.0,7.0,False,Master,"['Network Security', 'Ethical Hacking', 'Firewalls']",3
+738,Master's in Business Administration,Mid,Software Project Manager,3.0,3.0,False,Master,"['Agile', 'Scrum', 'Project Management', 'Leadership']",4
+739,Master's in Data Science,Entry,Data Analyst,1.0,1.0,False,Master,"['Python', 'Pandas', 'SQL', 'Tableau']",4
+740,Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,7.0,7.0,False,Bachelor,"['Kubernetes', 'Helm', 'AWS', 'Docker']",4
+741,Bachelor's in Information Technology,Mid,Web Developer,3.0,3.0,False,Bachelor,"['HTML', 'CSS', 'JavaScript', 'Vue.js']",4
+742,PhD in Artificial Intelligence,Senior,AIML,7.0,7.0,False,PhD,"['Python', 'TensorFlow', 'NLP', 'Deep Learning']",4
+743,Bachelor's in Software Engineering,Mid,Mobile Developer,3.0,3.0,False,Bachelor,"['Java', 'Kotlin', 'Android SDK', 'REST APIs']",4
+744,Bachelor's in Computer Science,Entry,Full Stack Python Developer,1.0,1.0,False,Bachelor,"['Python', 'Flask', 'JavaScript', 'PostgreSQL']",4
+745,Master's in Software Engineering,Senior,Full Stack Java Developer,7.0,7.0,False,Master,"['Java', 'Spring', 'React', 'AWS']",4
+746,Bachelor's in Graphic Design,Mid,Designer,3.0,3.0,False,Bachelor,"['Adobe XD', 'Figma', 'UI', 'UX', 'Prototyping']",5
+747,Bachelor's in Statistics,Entry,Data Analyst,1.0,1.0,False,Bachelor,"['SQL', 'R', 'Data Visualization', 'Statistics']",4
+748,Bachelor's in Game Development,Mid,Game Developer,3.0,3.0,False,Bachelor,"['C++', 'Unity', 'Game Design', 'VR']",4
+749,Bachelor's in Computer Science,Senior,DevOps Engineer,7.0,7.0,False,Bachelor,"['AWS', 'Jenkins', 'Docker', 'Terraform']",4
+750,Bachelor's in Information Technology,Entry,PHP Developer,1.0,1.0,False,Bachelor,"['PHP', 'Laravel', 'MySQL', 'JavaScript']",4
+751,Master's in Data Science,Mid,Data Scientist,3.0,3.0,False,Master,"['Python', 'TensorFlow', 'Keras', 'NLP']",4
+752,Bachelor's in Computer Science,Senior,Blockchain Developer,7.0,7.0,False,Bachelor,"['Solidity', 'Ethereum', 'Web3', 'Blockchain']",4
+753,Bachelor's in Computer Science,Mid,Frontend Developer,3.0,3.0,False,Bachelor,"['React', 'JavaScript', 'HTML', 'CSS', 'Redux']",5
+754,Bachelor's in Software Engineering,Senior,Backend Developer,7.0,7.0,False,Bachelor,"['Java', 'Hibernate', 'SQL', 'REST APIs']",4
+755,Bachelor's in Marketing,Mid,Marketing,3.0,3.0,False,Bachelor,"['Digital Marketing', 'SEO', 'PPC', 'Analytics']",4
+756,Master's in Human Resources,Senior,HR,7.0,7.0,False,Master,"['HR Management', 'Recruitment', 'Employee Relations']",3
+757,Bachelor's in Computer Science,Mid,C# Developer,3.0,3.0,False,Bachelor,"['C#', '.NET Core', 'Azure', 'SQL Server']",4
+758,Bachelor's in Computer Science,Entry,Mobile Developer,1.0,1.0,False,Bachelor,"['Swift', 'iOS Development', 'UI', 'UX', 'Core Data']",5
+759,Master's in Cybersecurity,Senior,Cybersecurity Engineer,7.0,7.0,False,Master,"['Network Security', 'Penetration Testing', 'SIEM']",3
+760,Master's in Business Administration,Mid,Software Project Manager,3.0,3.0,False,Master,"['Agile', 'JIRA', 'Stakeholder Management']",3
+761,Master's in Data Science,Senior,Data Scientist,7.0,7.0,False,Master,"['Python', 'R', 'SQL', 'Machine Learning']",4
+762,Bachelor's in Design,Entry,Designer,1.0,1.0,False,Bachelor,"['Figma', 'Sketch', 'UI', 'UX', 'Wireframing']",5
+763,Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,3.0,3.0,False,Bachelor,"['Kubernetes', 'Docker', 'GCP', 'CI', 'CD']",5
+764,Bachelor's in Information Technology,Entry,Web Developer,1.0,1.0,False,Bachelor,"['JavaScript', 'Node.js', 'Express', 'MongoDB']",4
+765,Bachelor's in Computer Science,Mid,Full Stack Python Developer,3.0,3.0,False,Bachelor,"['Python', 'Django', 'PostgreSQL', 'JavaScript']",4
+766,Master's in Software Engineering,Senior,Full Stack Java Developer,7.0,7.0,False,Master,"['Java', 'Spring Boot', 'Angular', 'AWS']",4
+767,Bachelor's in Game Development,Mid,Game Developer,3.0,3.0,False,Bachelor,"['C++', 'Unreal Engine', 'VR Development']",3
+768,Bachelor's in Computer Science,Senior,DevOps Engineer,7.0,7.0,False,Bachelor,"['AWS', 'Terraform', 'Jenkins', 'Linux']",4
+769,Bachelor's in Information Technology,Entry,PHP Developer,1.0,1.0,False,Bachelor,"['PHP', 'Symfony', 'MySQL', 'JavaScript']",4
+770,Bachelor's in Computer Science,Mid,Blockchain Developer,3.0,3.0,False,Bachelor,"['Solidity', 'Web3', 'Ethereum', 'JavaScript']",4
+771,Bachelor's in Computer Science,Entry,Frontend Developer,1.0,1.0,False,Bachelor,"['React', 'TypeScript', 'HTML', 'CSS']",4
+772,Bachelor's in Software Engineering,Senior,Backend Developer,7.0,7.0,False,Bachelor,"['Java', 'Spring', 'SQL', 'Microservices']",4
+773,Bachelor's in Marketing,Mid,Marketing,3.0,3.0,False,Bachelor,"['Marketing Campaigns', 'Social Media', 'Analytics']",3
+774,Master's in Human Resources,Senior,HR,7.0,7.0,False,Master,"['HR Policies', 'Recruitment', 'Training']",3
+775,Bachelor's in Computer Science,Mid,C# Developer,3.0,3.0,False,Bachelor,"['C#', 'ASP.NET', 'SQL Server', 'Azure']",4
+776,Bachelor's in Computer Science,Entry,Mobile Developer,1.0,1.0,False,Bachelor,"['Swift', 'iOS Development', 'UI', 'UX', 'Core Data']",5
+777,Master's in Cybersecurity,Senior,Cybersecurity Engineer,7.0,7.0,False,Master,"['Penetration Testing', 'Firewalls', 'SIEM']",3
+778,Master's in Business Administration,Mid,Software Project Manager,3.0,3.0,False,Master,"['Scrum', 'Agile', 'Project Management']",3
+779,Master's in Data Science,Entry,Data Analyst,1.0,1.0,False,Master,"['Python', 'Pandas', 'SQL', 'Tableau']",4
+780,Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,7.0,7.0,False,Bachelor,"['Kubernetes', 'Helm', 'AWS', 'Docker']",4
+781,Bachelor's in Information Technology,Mid,Web Developer,3.0,3.0,False,Bachelor,"['HTML', 'CSS', 'JavaScript', 'Vue.js']",4
+782,PhD in Artificial Intelligence,Senior,AIML,7.0,7.0,False,PhD,"['Python', 'TensorFlow', 'NLP', 'Deep Learning']",4
+783,Bachelor's in Software Engineering,Mid,Mobile Developer,3.0,3.0,False,Bachelor,"['Java', 'Kotlin', 'Android SDK', 'REST APIs']",4
+784,Bachelor's in Computer Science,"Entry,",Full Stack Python Developer,1.0,1.0,False,Bachelor,"['Python', 'Flask', 'JavaScript', 'SQL']",4
+785,Master's in Software Engineering,Senior,Full Stack Java Developer,7.0,7.0,False,Master,"['Java', 'Spring', 'React', 'AWS']",4
+786,Bachelor's in Graphic Design,Mid,Designer,3.0,3.0,False,Bachelor,"['Adobe XD', 'Figma', 'UI', 'UX', 'Prototyping']",5
+787,Bachelor's in Statistics,Entry,Data Analyst,1.0,1.0,False,Bachelor,"['SQL', 'R', 'Data Visualization', 'Statistics']",4
+788,Bachelor's in Game Development,Mid,Game Developer,3.0,3.0,False,Bachelor,"['C++', 'Unity', 'Game Design', 'VR']",4
+789,Bachelor's in Computer Science,Senior,DevOps Engineer,7.0,7.0,False,Bachelor,"['AWS', 'Jenkins', 'Docker', 'Terraform']",4
+790,Bachelor's in Information Technology,Entry,PHP Developer,1.0,1.0,False,Bachelor,"['PHP', 'Laravel', 'MySQL', 'JavaScript']",4
+791,Master's in Data Science,Mid,Data Scientist,3.0,3.0,False,Master,"['Python', 'TensorFlow', 'Keras', 'NLP']",4
+792,Bachelor's in Computer Science,Senior,Blockchain Developer,7.0,7.0,False,Bachelor,"['Solidity', 'Ethereum', 'Web3', 'Blockchain']",4
+793,Bachelor's in Computer Science,Mid,Frontend Developer,3.0,3.0,False,Bachelor,"['React', 'JavaScript', 'HTML', 'CSS', 'Redux']",5
+794,Bachelor's in Software Engineering,Senior,Backend Developer,7.0,7.0,False,Bachelor,"['Java', 'Hibernate', 'SQL', 'REST APIs']",4
+795,Bachelor's in Marketing,Mid,Marketing,3.0,3.0,False,Bachelor,"['Digital Marketing', 'SEO', 'PPC', 'Analytics']",4
+796,Master's in Human Resources,Senior,HR,7.0,7.0,False,Master,"['HR Management', 'Recruitment', 'Employee Relations']",3
+797,Bachelor's in Computer Science,Mid,C# Developer,3.0,3.0,False,Bachelor,"['C#', '.NET Core', 'Azure', 'SQL Server']",4
+798,Bachelor's in Computer Science,Entry,Mobile Developer,1.0,1.0,False,Bachelor,"['Swift', 'iOS', 'Xcode', 'UI', 'UX']",5
+799,Master's in Cybersecurity,Senior,Cybersecurity Engineer,7.0,7.0,False,Master,"['Network Security', 'Ethical Hacking', 'SIEM']",3
+800,Master's in Business Administration,Mid,Software Project Manager,3.0,3.0,False,Master,"['Agile', 'JIRA', 'Stakeholder Management']",3
+801,Master's in Data Science,Senior,Data Scientist,7.0,7.0,False,Master,"['Python', 'R', 'SQL', 'Machine Learning']",4
+802,Bachelor's in Design,Entry,Designer,1.0,1.0,False,Bachelor,"['Figma', 'Sketch', 'UI', 'UX', 'Wireframing']",5
+803,Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,3.0,3.0,False,Bachelor,"['Kubernetes', 'Docker', 'GCP', 'CI', 'CD']",5
+804,Bachelor's in Information Technology,Entry,Web Developer,1.0,1.0,False,Bachelor,"['JavaScript', 'Node.js', 'Express', 'MongoDB']",4
+805,Bachelor's in Computer Science,Mid,Full Stack Python Developer,3.0,3.0,False,Bachelor,"['Python', 'Django', 'PostgreSQL', 'JavaScript']",4
+806,Master's in Software Engineering,Senior,Full Stack Java Developer,7.0,7.0,False,Master,"['Java', 'Spring Boot', 'Angular', 'AWS']",4
+807,Bachelor's in Game Development,Mid,Game Developer,3.0,3.0,False,Bachelor,"['C++', 'Unreal Engine', 'VR Development']",3
+808,Bachelor's in Computer Science,Senior,DevOps Engineer,7.0,7.0,False,Bachelor,"['AWS', 'Terraform', 'Jenkins', 'Linux']",4
+809,Bachelor's in Information Technology,Entry,PHP Developer,1.0,1.0,False,Bachelor,"['PHP', 'Symfony', 'MySQL', 'JavaScript']",4
+810,Bachelor's in Computer Science,Mid,Blockchain Developer,3.0,3.0,False,Bachelor,"['Solidity', 'Web3js', 'Ethereum', 'JavaScript']",4
+811,Bachelor's in Computer Science,Entry,Frontend Developer,1.0,1.0,False,Bachelor,"['React', 'TypeScript', 'HTML', 'CSS']",4
+812,Bachelor's in Software Engineering,Senior,Backend Developer,7.0,7.0,False,Bachelor,"['Java', 'Spring', 'SQL', 'Microservices']",4
+813,Bachelor's in Marketing,Mid,Marketing,3.0,3.0,False,Bachelor,"['Marketing Campaigns', 'Social Media', 'Analytics']",3
+814,Master's in Human Resources,Senior,HR,7.0,7.0,False,Master,"['HR Policies', 'Recruitment', 'Training']",3
+815,Bachelor's in Computer Science,Mid,C# Developer,3.0,3.0,False,Bachelor,"['C#', 'ASP.NET', 'SQL Server', 'Azure']",4
+816,Bachelor's in Computer Science,Entry,Mobile Developer,1.0,1.0,False,Bachelor,"['Swift', 'iOS Development', 'UI', 'UX', 'Core Data']",5
+817,Master's in Cybersecurity,Senior,Cybersecurity Engineer,7.0,7.0,False,Master,"['Penetration Testing', 'Firewalls', 'SIEM']",3
+818,Master's in Business Administration,Mid,Software Project Manager,3.0,3.0,False,Master,"['Scrum', 'Agile', 'Project Management']",3
+819,Master's in Data Science,Entry,Data Analyst,1.0,1.0,False,Master,"['Python', 'Pandas', 'SQL', 'Tableau']",4
+820,Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,7.0,7.0,False,Bachelor,"['Kubernetes', 'Helm', 'AWS', 'Docker']",4
+821,Bachelor's in Information Technology,Mid,Web Developer,3.0,3.0,False,Bachelor,"['HTML', 'CSS', 'JavaScript', 'Vue.js']",4
+822,PhD in Artificial Intelligence,Senior,AIML,7.0,7.0,False,PhD,"['Python', 'TensorFlow', 'NLP', 'Deep Learning']",4
+823,Bachelor's in Software Engineering,Mid,Mobile Developer,3.0,3.0,False,Bachelor,"['Java', 'Kotlin', 'Android SDK', 'REST APIs']",4
+824,Bachelor's in Computer Science,Entry,Full Stack Python Developer,1.0,1.0,False,Bachelor,"['Python', 'Flask', 'JavaScript', 'SQL']",4
+825,Master's in Software Engineering,Senior,Full Stack Java Developer,7.0,7.0,False,Master,"['Java', 'Spring', 'React', 'AWS']",4
+826,Bachelor's in Graphic Design,Mid,Designer,3.0,3.0,False,Bachelor,"['Adobe XD', 'Figma', 'UI', 'UX', 'Prototyping']",5
+827,Bachelor's in Statistics,Entry,Data Analyst,1.0,1.0,False,Bachelor,"['SQL', 'R', 'Data Visualization', 'Statistics']",4
+828,Bachelor's in Game Development,Mid,Game Developer,3.0,3.0,False,Bachelor,"['C++', 'Unity', 'Game Design', 'VR']",4
+829,Bachelor's in Computer Science,Senior,DevOps Engineer,7.0,7.0,False,Bachelor,"['AWS', 'Jenkins', 'Docker', 'Terraform']",4
+830,Bachelor's in Information Technology,Entry,PHP Developer,1.0,1.0,False,Bachelor,"['PHP', 'Laravel', 'MySQL', 'JavaScript']",4
+831,Master's in Data Science,Mid,Data Scientist,3.0,3.0,False,Master,"['Python', 'TensorFlow', 'Keras', 'NLP']",4
+832,Bachelor's in Computer Science,Senior,Blockchain Developer,7.0,7.0,False,Bachelor,"['Solidity', 'Ethereum', 'Web3', 'Blockchain']",4
+833,Bachelor's in Computer Science,Mid,Frontend Developer,3.0,3.0,False,Bachelor,"['React', 'JavaScript', 'HTML', 'CSS', 'Redux']",5
+834,Bachelor's in Software Engineering,Senior,Backend Developer,7.0,7.0,False,Bachelor,"['Java', 'Hibernate', 'SQL', 'REST APIs']",4
+835,Bachelor's in Marketing,Mid,Marketing,3.0,3.0,False,Bachelor,"['Digital Marketing', 'SEO', 'PPC', 'Analytics']",4
+836,Master's in Human Resources,Senior,HR,7.0,7.0,False,Master,"['HR Management', 'Recruitment', 'Employee Relations']",3
+837,Bachelor's in Computer Science,Mid,C# Developer,3.0,3.0,False,Bachelor,"['C#', '.NET Core', 'Azure', 'SQL Server']",4
+838,Bachelor's in Computer Science,Entry,Mobile Developer,1.0,1.0,False,Bachelor,"['Swift', 'iOS', 'Xcode', 'UI', 'UX']",5
+839,Master's in Cybersecurity,Senior,Cybersecurity Engineer,7.0,7.0,False,Master,"['Network Security', 'Ethical Hacking', 'SIEM']",3
+840,Master's in Business Administration,Mid,Software Project Manager,3.0,3.0,False,Master,"['Agile', 'JIRA', 'Stakeholder Management']",3
+841,Master's in Data Science,Senior,Data Scientist,7.0,7.0,False,Master,"['Python', 'R', 'SQL', 'Machine Learning']",4
+842,Bachelor's in Design,Entry,Designer,1.0,1.0,False,Bachelor,"['Figma', 'Sketch', 'UI', 'UX', 'Wireframing']",5
+843,Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,3.0,3.0,False,Bachelor,"['Kubernetes', 'Docker', 'GCP', 'CI', 'CD']",5
+844,Bachelor's in Information Technology,Entry,Web Developer,1.0,1.0,False,Bachelor,"['JavaScript', 'Node.js', 'Express', 'MongoDB']",4
+845,Bachelor's in Computer Science,Mid,Full Stack Python Developer,3.0,3.0,False,Bachelor,"['Python', 'Django', 'PostgreSQL', 'JavaScript']",4
+846,Master's in Software Engineering,Senior,Full Stack Java Developer,7.0,7.0,False,Master,"['Java', 'Spring Boot', 'Angular', 'AWS']",4
+847,Bachelor's in Game Development,Mid,Game Developer,3.0,3.0,False,Bachelor,"['C++', 'Unreal Engine', 'VR Development']",3
+848,Bachelor's in Computer Science,Senior,DevOps Engineer,7.0,7.0,False,Bachelor,"['AWS', 'Terraform', 'Jenkins', 'Linux']",4
+849,Bachelor's in Information Technology,Entry,PHP Developer,1.0,1.0,False,Bachelor,"['PHP', 'Symfony', 'MySQL', 'JavaScript']",4
+850,Bachelor's in Computer Science,Mid,Blockchain Developer,3.0,3.0,False,Bachelor,"['Solidity', 'Web3', 'Ethereum', 'JavaScript']",4
+851,Bachelor's in Computer Science,Entry,Frontend Developer,1.0,1.0,False,Bachelor,"['React', 'TypeScript', 'HTML', 'CSS']",4
+852,Bachelor's in Software Engineering,Senior,Backend Developer,7.0,7.0,False,Bachelor,"['Java', 'Spring', 'SQL', 'Microservices']",4
+853,Bachelor's in Marketing,Mid,Marketing,3.0,3.0,False,Bachelor,"['Marketing Campaigns', 'Social Media', 'Analytics']",3
+854,Master's in Human Resources,Senior,HR,7.0,7.0,False,Master,"['HR Policies', 'Recruitment', 'Training']",3
+855,Bachelor's in Computer Science,Mid,C# Developer,3.0,3.0,False,Bachelor,"['C#', 'ASP.NET', 'SQL Server', 'Azure']",4
+856,Bachelor's in Computer Science,Entry,Mobile Developer,1.0,1.0,False,Bachelor,"['Swift', 'iOS Development', 'UI', 'UX', 'Core Data']",5
+857,Master's in Cybersecurity,Senior,Cybersecurity Engineer,7.0,7.0,False,Master,"['Penetration Testing', 'Firewalls', 'SIEM']",3
+858,Master's in Business Administration,Mid,Software Project Manager,3.0,3.0,False,Master,"['Scrum', 'Agile', 'Project Management']",3
+859,Master's in Data Science,Entry,Data Analyst,1.0,1.0,False,Master,"['Python', 'Pandas', 'SQL', 'Tableau']",4
+860,Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,7.0,7.0,False,Bachelor,"['Kubernetes', 'Helm', 'AWS', 'Docker']",4
+861,Bachelor's in Information Technology,Mid,Web Developer,3.0,3.0,False,Bachelor,"['HTML', 'CSS', 'JavaScript', 'Vue.js']",4
+862,PhD in Artificial Intelligence,Senior,AIML,7.0,7.0,False,PhD,"['Python', 'TensorFlow', 'NLP', 'Deep Learning']",4
+863,Bachelor's in Software Engineering,Mid,Mobile Developer,3.0,3.0,False,Bachelor,"['Java', 'Kotlin', 'Android SDK', 'REST APIs']",4
+864,Bachelor's in Computer Science,Entry,Full Stack Python Developer,1.0,1.0,False,Bachelor,"['Python', 'Flask', 'JavaScript', 'SQL']",4
+865,Master's in Software Engineering,Senior,Full Stack Java Developer,7.0,7.0,False,Master,"['Java', 'Spring', 'React', 'AWS']",4
+866,Bachelor's in Graphic Design,Mid,Designer,3.0,3.0,False,Bachelor,"['Adobe XD', 'Figma', 'UI', 'UX', 'Prototyping']",5
+867,Bachelor's in Statistics,Entry,Data Analyst,1.0,1.0,False,Bachelor,"['SQL', 'R', 'Data Visualization', 'Statistics']",4
+868,Bachelor's in Game Development,Mid,Game Developer,3.0,3.0,False,Bachelor,"['C++', 'Unity', 'Game Design', 'VR']",4
+869,Bachelor's in Computer Science,Senior,DevOps Engineer,7.0,7.0,False,Bachelor,"['AWS', 'Jenkins', 'Docker', 'Terraform']",4
+870,Bachelor's in Information Technology,Entry,PHP Developer,1.0,1.0,False,Bachelor,"['PHP', 'Laravel', 'MySQL', 'JavaScript']",4
+871,Master's in Data Science,Mid,Data Scientist,3.0,3.0,False,Master,"['Python', 'TensorFlow', 'Keras', 'NLP']",4
+872,Bachelor's in Computer Science,Senior,Blockchain Developer,7.0,7.0,False,Bachelor,"['Solidity', 'Ethereum', 'Web3', 'Blockchain']",4
+873,Bachelor's in Computer Science,Mid,Frontend Developer,3.0,3.0,False,Bachelor,"['React', 'JavaScript', 'HTML', 'CSS', 'Redux']",5
+874,Bachelor's in Software Engineering,Senior,Backend Developer,7.0,7.0,False,Bachelor,"['Java', 'Hibernate', 'SQL', 'REST APIs']",4
+875,Bachelor's in Marketing,Mid,Marketing,3.0,3.0,False,Bachelor,"['Digital Marketing', 'SEO', 'PPC', 'Analytics']",4
+876,Master's in Human Resources,Senior,HR,7.0,7.0,False,Master,"['HR Management', 'Recruitment', 'Employee Relations']",3
+877,Bachelor's in Computer Science,Mid,C# Developer,3.0,3.0,False,Bachelor,"['C#', '.NET Core', 'Azure', 'SQL Server']",4
+878,Bachelor's in Computer Science,Entry,Mobile Developer,1.0,1.0,False,Bachelor,"['Swift', 'iOS', 'Xcode', 'UI', 'UX']",5
+879,Master's in Cybersecurity,Senior,Cybersecurity Engineer,7.0,7.0,False,Master,"['Network Security', 'Ethical Hacking', 'SIEM']",3
+880,Master's in Business Administration,Mid,Software Project Manager,3.0,3.0,False,Master,"['Agile', 'JIRA', 'Stakeholder Management']",3
+881,Master's in Data Science,Senior,Data Scientist,7.0,7.0,False,Master,"['Python', 'R', 'SQL', 'Machine Learning']",4
+882,Bachelor's in Design,Entry,Designer,1.0,1.0,False,Bachelor,"['Figma', 'Sketch', 'UI', 'UX', 'Wireframing']",5
+883,Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,3.0,3.0,False,Bachelor,"['Kubernetes', 'Docker', 'GCP', 'CI', 'CD']",5
+884,Bachelor's in Information Technology,Entry,Web Developer,1.0,1.0,False,Bachelor,"['JavaScript', 'Node.js', 'Express', 'MongoDB']",4
+885,Bachelor's in Computer Science,Mid,Full Stack Python Developer,3.0,3.0,False,Bachelor,"['Python', 'Django', 'PostgreSQL', 'JavaScript']",4
+886,Master's in Software Engineering,Senior,Full Stack Java Developer,7.0,7.0,False,Master,"['Java', 'Spring Boot', 'Angular', 'AWS']",4
+887,Bachelor's in Game Development,Mid,Game Developer,3.0,3.0,False,Bachelor,"['C++', 'Unreal Engine', 'VR Development']",3
+888,Bachelor's in Computer Science,Senior,DevOps Engineer,7.0,7.0,False,Bachelor,"['AWS', 'Terraform', 'Jenkins', 'Linux']",4
+889,Bachelor's in Information Technology,Entry,PHP Developer,1.0,1.0,False,Bachelor,"['PHP', 'Symfony', 'MySQL', 'JavaScript']",4
+890,Bachelor's in Computer Science,Mid,Blockchain Developer,3.0,3.0,False,Bachelor,"['Solidity', 'Web3', 'Ethereum', 'JavaScript']",4
+891,Bachelor's in Computer Science,Entry,Frontend Developer,1.0,1.0,False,Bachelor,"['React', 'TypeScript', 'HTML', 'CSS']",4
+892,Bachelor's in Software Engineering,Senior,Backend Developer,7.0,7.0,False,Bachelor,"['Java', 'Spring', 'SQL', 'Microservices']",4
+893,Bachelor's in Marketing,Mid,Marketing,3.0,3.0,False,Bachelor,"['Marketing Campaigns', 'Social Media', 'Analytics']",3
+894,Master's in Human Resources,Senior,HR,7.0,7.0,False,Master,"['HR Policies', 'Recruitment', 'Training']",3
+895,Bachelor's in Computer Science,Mid,C# Developer,3.0,3.0,False,Bachelor,"['C#', 'ASP.NET', 'SQL Server', 'Azure']",4
+896,Bachelor's in Computer Science,Entry,Mobile Developer,1.0,1.0,False,Bachelor,"['Swift', 'iOS Development', 'UI', 'UX', 'Core Data']",5
+897,Master's in Cybersecurity,Senior,Cybersecurity Engineer,7.0,7.0,False,Master,"['Penetration Testing', 'Firewalls', 'SIEM']",3
+898,Master's in Business Administration,Mid,Software Project Manager,3.0,3.0,False,Master,"['Scrum', 'Agile', 'Project Management']",3
+899,Master's in Data Science,Entry,Data Analyst,1.0,1.0,False,Master,"['Python', 'Pandas', 'SQL', 'Tableau']",4
+900,Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,7.0,7.0,False,Bachelor,"['Kubernetes', 'Helm', 'AWS', 'Docker']",4
+901,Bachelor's in Information Technology,Mid,Web Developer,3.0,3.0,False,Bachelor,"['HTML', 'CSS', 'JavaScript', 'Vue.js']",4
+902,PhD in Artificial Intelligence,Senior,AIML,7.0,7.0,False,PhD,"['Python', 'TensorFlow', 'NLP', 'Deep Learning']",4
+903,Bachelor's in Software Engineering,Mid,Mobile Developer,3.0,3.0,False,Bachelor,"['Java', 'Kotlin', 'Android SDK', 'REST APIs']",4
+904,Bachelor's in Computer Science,Entry,Full Stack Python Developer,1.0,1.0,False,Bachelor,"['Python', 'Flask', 'JavaScript', 'SQL']",4
+905,Master's in Software Engineering,Senior,Full Stack Java Developer,7.0,7.0,False,Master,"['Java', 'Spring', 'React', 'AWS']",4
+906,Bachelor's in Graphic Design,Mid,Designer,3.0,3.0,False,Bachelor,"['Adobe XD', 'Figma', 'UI', 'UX', 'Prototyping']",5
+907,Bachelor's in Statistics,Entry,Data Analyst,1.0,1.0,False,Bachelor,"['SQL', 'R', 'Data Visualization', 'Statistics']",4
+908,Bachelor's in Game Development,Mid,Game Developer,3.0,3.0,False,Bachelor,"['C++', 'Unity', 'Game Design', 'VR']",4
+909,Bachelor's in Computer Science,Senior,DevOps Engineer,7.0,7.0,False,Bachelor,"['AWS', 'Jenkins', 'Docker', 'Terraform']",4
+910,Bachelor's in Information Technology,Entry,PHP Developer,1.0,1.0,False,Bachelor,"['PHP', 'Laravel', 'MySQL', 'JavaScript']",4
+911,Master's in Data Science,Mid,Data Scientist,3.0,3.0,False,Master,"['Python', 'TensorFlow', 'Keras', 'NLP']",4
+912,Bachelor's in Computer Science,Senior,Blockchain Developer,7.0,7.0,False,Bachelor,"['Solidity', 'Ethereum', 'Web3', 'Blockchain']",4
+913,Bachelor's in Computer Science,Mid,Frontend Developer,3.0,3.0,False,Bachelor,"['React', 'JavaScript', 'HTML', 'CSS', 'Redux']",5
+914,Bachelor's in Software Engineering,Senior,Backend Developer,7.0,7.0,False,Bachelor,"['Java', 'Hibernate', 'SQL', 'REST APIs']",4
+915,Bachelor's in Marketing,Mid,Marketing,3.0,3.0,False,Bachelor,"['Digital Marketing', 'SEO', 'PPC', 'Analytics']",4
+916,Master's in Human Resources,Senior,HR,7.0,7.0,False,Master,"['HR Management', 'Recruitment', 'Employee Relations']",3
+917,Bachelor's in Computer Science,Mid,C# Developer,3.0,3.0,False,Bachelor,"['C#', '.NET Core', 'Azure', 'SQL Server']",4
+918,Bachelor's in Computer Science,Entry,Mobile Developer,1.0,1.0,False,Bachelor,"['Swift', 'iOS', 'Xcode', 'UI', 'UX']",5
+919,Master's in Cybersecurity,Senior,Cybersecurity Engineer,7.0,7.0,False,Master,"['Network Security', 'Ethical Hacking', 'SIEM']",3
+920,Master's in Business Administration,Mid,Software Project Manager,3.0,3.0,False,Master,"['Agile', 'JIRA', 'Stakeholder Management']",3
+921,Master's in Data Science,Senior,Data Scientist,7.0,7.0,False,Master,"['Python', 'R', 'SQL', 'Machine Learning']",4
+922,Bachelor's in Design,Entry,Designer,1.0,1.0,False,Bachelor,"['Figma', 'Sketch', 'UI', 'UX', 'Wireframing']",5
+923,Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,3.0,3.0,False,Bachelor,"['Kubernetes', 'Docker', 'GCP', 'CI', 'CD']",5
+924,Bachelor's in Information Technology,Entry,Web Developer,1.0,1.0,False,Bachelor,"['JavaScript', 'Node.js', 'Express', 'MongoDB']",4
+925,Bachelor's in Computer Science,Mid,Full Stack Python Developer,3.0,3.0,False,Bachelor,"['Python', 'Django', 'PostgreSQL', 'JavaScript']",4
+926,Master's in Software Engineering,Senior,Full Stack Java Developer,7.0,7.0,False,Master,"['Java', 'Spring Boot', 'Angular', 'AWS']",4
+927,Bachelor's in Game Development,Mid,Game Developer,3.0,3.0,False,Bachelor,"['C++', 'Unreal Engine', 'VR Development']",3
+928,Bachelor's in Computer Science,Senior,DevOps Engineer,7.0,7.0,False,Bachelor,"['AWS', 'Terraform', 'Jenkins', 'Linux']",4
+929,Bachelor's in Information Technology,Entry,PHP Developer,1.0,1.0,False,Bachelor,"['PHP', 'Symfony', 'MySQL', 'JavaScript']",4
+930,Bachelor's in Computer Science,Mid,Blockchain Developer,3.0,3.0,False,Bachelor,"['Solidity', 'Web3', 'Ethereum', 'JavaScript']",4
+931,Bachelor's in Computer Science,Entry,Frontend Developer,1.0,1.0,False,Bachelor,"['React', 'TypeScript', 'HTML', 'CSS']",4
+932,Bachelor's in Software Engineering,Senior,Backend Developer,7.0,7.0,False,Bachelor,"['Java', 'Spring', 'SQL', 'Microservices']",4
+933,Bachelor's in Marketing,Mid,Marketing,3.0,3.0,False,Bachelor,"['Marketing Campaigns', 'Social Media', 'Analytics']",3
+934,Master's in Human Resources,Senior,HR,7.0,7.0,False,Master,"['HR Policies', 'Recruitment', 'Training']",3
+935,Bachelor's in Computer Science,Mid,C# Developer,3.0,3.0,False,Bachelor,"['C#', 'ASP.NET', 'SQL Server', 'Azure']",4
+936,Bachelor's in Computer Science,Entry,Mobile Developer,1.0,1.0,False,Bachelor,"['Swift', 'iOS Development', 'UI', 'UX', 'Core Data']",5
+937,Master's in Cybersecurity,Senior,Cybersecurity Engineer,7.0,7.0,False,Master,"['Penetration Testing', 'Firewalls', 'SIEM']",3
+938,Master's in Business Administration,Mid,Software Project Manager,3.0,3.0,False,Master,"['Scrum', 'Agile', 'Project Management']",3
+939,Master's in Data Science,Entry,Data Analyst,1.0,1.0,False,Master,"['Python', 'Pandas', 'SQL', 'Tableau']",4
+940,Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,7.0,7.0,False,Bachelor,"['Kubernetes', 'Helm', 'AWS', 'Docker']",4
+941,Bachelor's in Information Technology,Mid,Web Developer,3.0,3.0,False,Bachelor,"['HTML', 'CSS', 'JavaScript', 'Vue.js']",4
+942,PhD in Artificial Intelligence,Senior,AIML,7.0,7.0,False,PhD,"['Python', 'TensorFlow', 'NLP', 'Deep Learning']",4
+943,Bachelor's in Software Engineering,Mid,Mobile Developer,3.0,3.0,False,Bachelor,"['Java', 'Kotlin', 'Android SDK', 'REST APIs']",4
+944,Bachelor's in Computer Science,Entry,Full Stack Python Developer,1.0,1.0,False,Bachelor,"['Python', 'Flask', 'JavaScript', 'SQL']",4
+945,Master's in Software Engineering,Senior,Full Stack Java Developer,7.0,7.0,False,Master,"['Java', 'Spring', 'React', 'AWS']",4
+946,Bachelor's in Graphic Design,Mid,Designer,3.0,3.0,False,Bachelor,"['Adobe XD', 'Figma', 'UI', 'UX', 'Prototyping']",5
+947,Bachelor's in Statistics,Entry,Data Analyst,1.0,1.0,False,Bachelor,"['SQL', 'R', 'Data Visualization', 'Statistics']",4
+948,Bachelor's in Game Development,Mid,Game Developer,3.0,3.0,False,Bachelor,"['C++', 'Unity', 'Game Design', 'VR']",4
+949,Bachelor's in Computer Science,Senior,DevOps Engineer,7.0,7.0,False,Bachelor,"['AWS', 'Jenkins', 'Docker', 'Terraform']",4
+950,Bachelor's in Information Technology,Entry,PHP Developer,1.0,1.0,False,Bachelor,"['PHP', 'Laravel', 'MySQL', 'JavaScript']",4
+951,Master's in Data Science,Mid,Data Scientist,3.0,3.0,False,Master,"['Python', 'TensorFlow', 'Keras', 'NLP']",4
+952,Bachelor's in Computer Science,Senior,Blockchain Developer,7.0,7.0,False,Bachelor,"['Solidity', 'Ethereum', 'Web3', 'Blockchain']",4
+953,Bachelor's in Computer Science,Mid,Frontend Developer,3.0,3.0,False,Bachelor,"['React', 'JavaScript', 'HTML', 'CSS', 'Redux']",5
+954,Bachelor's in Software Engineering,Senior,Backend Developer,7.0,7.0,False,Bachelor,"['Java', 'Hibernate', 'SQL', 'REST APIs']",4
+955,Bachelor's in Marketing,Mid,Marketing,3.0,3.0,False,Bachelor,"['Digital Marketing', 'SEO', 'PPC', 'Analytics']",4
+956,Master's in Human Resources,Senior,HR,7.0,7.0,False,Master,"['HR Management', 'Recruitment', 'Employee Relations']",3
+957,Bachelor's in Computer Science,Mid,C# Developer,3.0,3.0,False,Bachelor,"['C#', '.NET Core', 'Azure', 'SQL Server']",4
+958,Bachelor's in Computer Science,Entry,Mobile Developer,1.0,1.0,False,Bachelor,"['Swift', 'iOS', 'Xcode', 'UI', 'UX']",5
+959,Master's in Cybersecurity,Senior,Cybersecurity Engineer,7.0,7.0,False,Master,"['Network Security', 'Ethical Hacking', 'SIEM']",3
+960,Master's in Business Administration,Mid,Software Project Manager,3.0,3.0,False,Master,"['Agile', 'JIRA', 'Stakeholder Management']",3
+961,Master's in Data Science,Senior,Data Scientist,7.0,7.0,False,Master,"['Python', 'R', 'SQL', 'Machine Learning']",4
+962,Bachelor's in Design,Entry,Designer,1.0,1.0,False,Bachelor,"['Figma', 'Sketch', 'UI', 'UX', 'Wireframing']",5
+963,Bachelor's in Computer Science,Mid,Kubernetes Operations Engineer,3.0,3.0,False,Bachelor,"['Kubernetes', 'Docker', 'GCP', 'CI', 'CD']",5
+964,Bachelor's in Information Technology,Entry,Web Developer,1.0,1.0,False,Bachelor,"['JavaScript', 'Node.js', 'Express', 'MongoDB']",4
+965,Bachelor's in Computer Science,Mid,Full Stack Python Developer,3.0,3.0,False,Bachelor,"['Python', 'Django', 'PostgreSQL', 'JavaScript']",4
+966,Master's in Software Engineering,Senior,Full Stack Java Developer,7.0,7.0,False,Master,"['Java', 'Spring Boot', 'Angular', 'AWS']",4
+967,Bachelor's in Game Development,Mid,Game Developer,3.0,3.0,False,Bachelor,"['C++', 'Unreal Engine', 'VR Development']",3
+968,Bachelor's in Computer Science,Senior,DevOps Engineer,7.0,7.0,False,Bachelor,"['AWS', 'Terraform', 'Jenkins', 'Linux']",4
+969,Bachelor's in Information Technology,Entry,PHP Developer,1.0,1.0,False,Bachelor,"['PHP', 'Symfony', 'MySQL', 'JavaScript']",4
+970,Bachelor's in Computer Science,Mid,Blockchain Developer,3.0,3.0,False,Bachelor,"['Solidity', 'Web3', 'Ethereum', 'JavaScript']",4
+971,Bachelor's in Computer Science,Entry,Frontend Developer,1.0,1.0,False,Bachelor,"['React', 'TypeScript', 'HTML', 'CSS']",4
+972,Bachelor's in Software Engineering,Senior,Backend Developer,7.0,7.0,False,Bachelor,"['Java', 'Spring', 'SQL', 'Microservices']",4
+973,Bachelor's in Marketing,Mid,Marketing,3.0,3.0,False,Bachelor,"['Marketing Campaigns', 'Social Media', 'Analytics']",3
+974,Master's in Human Resources,Senior,HR,7.0,7.0,False,Master,"['HR Policies', 'Recruitment', 'Training']",3
+975,Bachelor's in Computer Science,Mid,C# Developer,3.0,3.0,False,Bachelor,"['C#', 'ASP.NET', 'SQL Server', 'Azure']",4
+976,Bachelor's in Computer Science,Entry,Mobile Developer,1.0,1.0,False,Bachelor,"['Swift', 'iOS Development', 'UI', 'UX', 'Core Data']",5
+977,Master's in Cybersecurity,Senior,Cybersecurity Engineer,7.0,7.0,False,Master,"['Penetration Testing', 'Firewalls', 'SIEM']",3
+978,Master's in Business Administration,Mid,Software Project Manager,3.0,3.0,False,Master,"['Scrum', 'Agile', 'Project Management']",3
+979,Master's in Data Science,Entry,Data Analyst,1.0,1.0,False,Master,"['Python', 'Pandas', 'SQL', 'Tableau']",4
+980,Bachelor's in Computer Science,Senior,Kubernetes Operations Engineer,7.0,7.0,False,Bachelor,"['Kubernetes', 'Helm', 'AWS', 'Docker']",4
+981,Bachelor's in Information Technology,Mid,Web Developer,3.0,3.0,False,Bachelor,"['HTML', 'CSS', 'JavaScript', 'Vue.js']",4
+982,PhD in Artificial Intelligence,Senior,AIML,7.0,7.0,False,PhD,"['Python', 'TensorFlow', 'NLP', 'Deep Learning']",4
+983,Bachelor's in Software Engineering,Mid,Mobile Developer,3.0,3.0,False,Bachelor,"['Java', 'Kotlin', 'Android SDK', 'REST APIs']",4
+984,Bachelor's in Computer Science,Entry,Full Stack Python Developer,1.0,1.0,False,Bachelor,"['Python', 'Flask', 'JavaScript', 'SQL']",4
+985,Master's in Software Engineering,Senior,Full Stack Java Developer,7.0,7.0,False,Master,"['Java', 'Spring', 'React', 'AWS']",4
+986,Bachelor's in Graphic Design,Mid,Designer,3.0,3.0,False,Bachelor,"['Adobe XD', 'Figma', 'UI', 'UX', 'Prototyping']",5
+987,Bachelor's in Statistics,Entry,Data Analyst,1.0,1.0,False,Bachelor,"['SQL', 'R', 'Data Visualization', 'Statistics']",4
+988,Bachelor's in Game Development,Mid,Game Developer,3.0,3.0,False,Bachelor,"['C++', 'Unity', 'Game Design', 'VR']",4
+989,Bachelor's in Computer Science,Senior,DevOps Engineer,7.0,7.0,False,Bachelor,"['AWS', 'Jenkins', 'Docker', 'Terraform']",4
+990,Bachelor's in Information Technology,Entry,PHP Developer,1.0,1.0,False,Bachelor,"['PHP', 'Laravel', 'MySQL', 'JavaScript']",4
+991,Master's in Data Science,Mid,Data Scientist,3.0,3.0,False,Master,"['Python', 'TensorFlow', 'Keras', 'NLP']",4
+992,Bachelor's in Computer Science,Senior,Blockchain Developer,7.0,7.0,False,Bachelor,"['Solidity', 'Ethereum', 'Web3', 'Blockchain']",4
+993,Bachelor's in Computer Science,Mid,Frontend Developer,3.0,3.0,False,Bachelor,"['React', 'JavaScript', 'HTML', 'CSS', 'Redux']",5
+994,Bachelor's in Software Engineering,Senior,Backend Developer,7.0,7.0,False,Bachelor,"['Java', 'Hibernate', 'SQL', 'REST APIs']",4
+995,Bachelor's in Marketing,Mid,Marketing,3.0,3.0,False,Bachelor,"['Digital Marketing', 'SEO', 'PPC', 'Analytics']",4
+996,Master's in Human Resources,Senior,HR,7.0,7.0,False,Master,"['HR Management', 'Recruitment', 'Employee Relations']",3
+997,Bachelor's in Computer Science,Mid,C# Developer,3.0,3.0,False,Bachelor,"['C#', '.NET Core', 'Azure', 'SQL Server']",4
+998,Bachelor's in Computer Science,Entry,Mobile Developer,1.0,1.0,False,Bachelor,"['Swift', 'iOS', 'Xcode', 'UI', 'UX']",5
+999,Master's in Cybersecurity,Senior,Cybersecurity Engineer,7.0,7.0,False,Master,"['Network Security', 'Ethical Hacking', 'SIEM']",3
+1000,Master's in Business Administration,Mid,Software Project Manager,3.0,3.0,False,Master,"['Agile', 'JIRA', 'Stakeholder Management']",3
